@@ -1,4 +1,4 @@
-"MECHANICAL": [{
+{"MECHANICAL": [{
     "subject": "Mechanical Engineering",
     "level": "world",
     "institution": "McMaster University",
@@ -340,4 +340,4 @@
     "institution": "McMaster University",
     "year": "2020",
     "rank": 64
-}]
+}]}
