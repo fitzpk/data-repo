@@ -7598,7 +7598,7 @@
     "IC": 54.1,
     "TOP": 16.7,
     "AWARD": 0.0
-}]}{"ECE": [{
+}],"ECE": [{
     "subject": "ECE",
     "identifier": "Aalborg University_Denmark",
     "institution": "Aalborg University",
@@ -17098,7 +17098,7 @@
     "IC": 67.1,
     "TOP": 0.0,
     "AWARD": 0.0
-}]}{"TELECOM": [{
+}],"TELECOM": [{
     "subject": "TELECOM",
     "identifier": "Aalborg University_Denmark",
     "institution": "Aalborg University",
@@ -22798,7 +22798,7 @@
     "IC": 78.7,
     "TOP": 0,
     "AWARD": 0
-}]}{"INSTRUMENT": [{
+}],"INSTRUMENT": [{
     "subject": "INSTRUMENT",
     "identifier": "Aalborg University_Denmark",
     "institution": "Aalborg University",
@@ -28498,7 +28498,7 @@
     "IC": 42.6,
     "TOP": 0,
     "AWARD": 0
-}]}{"BIOMED": [{
+}],"BIOMED": [{
     "subject": "BIOMED",
     "identifier": "Aarhus University_Denmark",
     "institution": "Aarhus University",
@@ -34198,7 +34198,7 @@
     "IC": 50.7,
     "TOP": 28.9,
     "AWARD": 0
-}]}{"COMPSCI": [{
+}],"COMPSCI": [{
     "subject": "COMPSCI",
     "identifier": "Aalborg University_Denmark",
     "institution": "Aalborg University",
@@ -43698,7 +43698,7 @@
     "IC": 60.5,
     "TOP": 8.0,
     "AWARD": 0.0
-}]}{"CIVIL": [{
+}],"CIVIL": [{
     "subject": "CIVIL",
     "identifier": "Aalborg University_Denmark",
     "institution": "Aalborg University",
@@ -49398,7 +49398,7 @@
     "IC": 58.1,
     "TOP": 24.3,
     "AWARD": 0.0
-}]}{"CHEMICAL": [{
+}],"CHEMICAL": [{
     "subject": "CHEMICAL",
     "identifier": "Aalborg University_Denmark",
     "institution": "Aalborg University",
@@ -58898,7 +58898,7 @@
     "IC": 49.8,
     "TOP": 27.1,
     "AWARD": 0.0
-}]}{"MATERIALS": [{
+}],"MATERIALS": [{
     "subject": "MATERIALS",
     "identifier": "Aalto University_Finland",
     "institution": "Aalto University",
@@ -68398,7 +68398,7 @@
     "IC": 54.0,
     "TOP": 28.7,
     "AWARD": 0.0
-}]}{"NANOSCI": [{
+}],"NANOSCI": [{
     "subject": "NANOSCI",
     "identifier": "Aalto University_Finland",
     "institution": "Aalto University",
@@ -75998,7 +75998,7 @@
     "IC": 53.4,
     "TOP": 29.5,
     "AWARD": 0
-}]}{"ENERGY": [{
+}],"ENERGY": [{
     "subject": "ENERGY",
     "identifier": "AGH University of Science and Technology_Poland",
     "institution": "AGH University of Science and Technology",
@@ -83598,7 +83598,7 @@
     "IC": 53.1,
     "TOP": 22.4,
     "AWARD": 0
-}]}{"ENVIROSCI": [{
+}],"ENVIROSCI": [{
     "subject": "ENVIROSCI",
     "identifier": "Aalborg University_Denmark",
     "institution": "Aalborg University",
@@ -93098,7 +93098,7 @@
     "IC": 59.1,
     "TOP": 35.9,
     "AWARD": 0.0
-}]}{"WATER": [{
+}],"WATER": [{
     "subject": "WATER",
     "identifier": "Aarhus University_Denmark",
     "institution": "Aarhus University",
@@ -96898,7 +96898,7 @@
     "IC": 72.9,
     "TOP": 49.6,
     "AWARD": 0.0
-}]}{"BIOTECH": [{
+}],"BIOTECH": [{
     "subject": "BIOTECH",
     "identifier": "Aalborg University_Denmark",
     "institution": "Aalborg University",
@@ -106398,7 +106398,7 @@
     "IC": 38.5,
     "TOP": 0,
     "AWARD": 0
-}]}{"TRANSPORT": [{
+}],"TRANSPORT": [{
     "subject": "TRANSPORT",
     "identifier": "Aalborg University_Denmark",
     "institution": "Aalborg University",
@@ -110198,7 +110198,7 @@
     "IC": 82.0,
     "TOP": 0,
     "AWARD": 0
-}]}{"METAL": [{
+}],"METAL": [{
     "subject": "METAL",
     "identifier": "AGH University of Science and Technology_Poland",
     "institution": "AGH University of Science and Technology",
