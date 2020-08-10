@@ -1,4 +1,346 @@
-{"BIOTECH": [{
+{"MECHANICAL": [{
+    "subject": "Mechanical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 225
+},{
+    "subject": "Mechanical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 226
+},{
+    "subject": "Mechanical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 247
+},{
+    "subject": "Mechanical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 270
+}],"ECE": [{
+    "subject": "Electrical & Electronic Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 191
+},{
+    "subject": "Electrical & Electronic Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 141
+},{
+    "subject": "Electrical & Electronic Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 220
+},{
+    "subject": "Electrical & Electronic Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 179
+}],"TELECOM": [{
+    "subject": "Telecommunication Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 131
+},{
+    "subject": "Telecommunication Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 142
+},{
+    "subject": "Telecommunication Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 165
+},{
+    "subject": "Telecommunication Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 182
+}],"INSTRUMENT": [{
+    "subject": "Instruments Science & Technology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 275
+},{
+    "subject": "Instruments Science & Technology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 292
+}],"BIOMED": [{
+    "subject": "Biomedical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 293
+}],"COMPSCI": [{
+    "subject": "Computer Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 51
+},{
+    "subject": "Computer Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 73
+},{
+    "subject": "Computer Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 110
+},{
+    "subject": "Computer Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 120
+}],"CIVIL": [{
+    "subject": "Civil Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 29
+},{
+    "subject": "Civil Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 30
+},{
+    "subject": "Civil Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 29
+},{
+    "subject": "Civil Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 33
+}],"CHEMICAL": [{
+    "subject": "Chemical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 190
+},{
+    "subject": "Chemical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 177
+},{
+    "subject": "Chemical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 216
+},{
+    "subject": "Chemical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 242
+}],"MATERIALS": [{
+    "subject": "Materials Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 285
+},{
+    "subject": "Materials Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 298
+},{
+    "subject": "Materials Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 296
+},{
+    "subject": "Materials Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 347
+}],"NANOSCI": [{
+    "subject": "Nanoscience & Nanotechnology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 305
+},{
+    "subject": "Nanoscience & Nanotechnology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 309
+},{
+    "subject": "Nanoscience & Nanotechnology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 328
+}],"ENERGY": [{
+    "subject": "Energy Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 326
+},{
+    "subject": "Energy Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 403
+},{
+    "subject": "Energy Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 347
+}],"ENVIROSCI": [{
+    "subject": "Environmental Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 220
+},{
+    "subject": "Environmental Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 226
+},{
+    "subject": "Environmental Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 286
+},{
+    "subject": "Environmental Science & Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 345
+}],"WATER": [{
+    "subject": "Water Resources",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 104
+},{
+    "subject": "Water Resources",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 107
+},{
+    "subject": "Water Resources",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 79
+},{
+    "subject": "Water Resources",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 91
+}],"BIOTECH": [{
+    "subject": "Biotechnology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 279
+},{
+    "subject": "Biotechnology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 309
+},{
+    "subject": "Biotechnology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 389
+},{
+    "subject": "Biotechnology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 405
+}],"TRANSPORT": [{
+    "subject": "Transportation Science & Technology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 55
+},{
+    "subject": "Transportation Science & Technology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 49
+},{
+    "subject": "Transportation Science & Technology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 76
+},{
+    "subject": "Transportation Science & Technology",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 68
+}],"METAL": [{
+    "subject": "Metallurgical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2017",
+    "rank": 61
+},{
+    "subject": "Metallurgical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2018",
+    "rank": 46
+},{
+    "subject": "Metallurgical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2019",
+    "rank": 48
+},{
+    "subject": "Metallurgical Engineering",
+    "level": "world",
+    "institution": "McMaster University",
+    "year": "2020",
+    "rank": 64
+}],"BIOTECH": [{
     "subject": "Biotechnology",
     "level": "northam",
     "institution": "McMaster University",
