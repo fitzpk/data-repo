@@ -67,7 +67,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0,
-    "change": 0
+    "change": "No Change"
 }],"CHEMICAL": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -102,7 +102,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0.0,
-    "change": 0
+    "change": "No Change"
 }],"CIVIL": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -137,7 +137,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0.0,
-    "change": 0
+    "change": "No Change"
 }],"COMPSCI": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -172,7 +172,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0.0,
-    "change": 0
+    "change": "No Change"
 }],"ECE": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -207,7 +207,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0.0,
-    "change": 0
+    "change": "No Change"
 }],"ENERGY": [{
     "indicator": "QI-PUB",
     "open_year": "2018",
@@ -242,7 +242,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0,
-    "change": 0
+    "change": "No Change"
 }],"ENVIROSCI": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -277,7 +277,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0.0,
-    "change": 0
+    "change": "No Change"
 }],"INSTRUMENT": [{
     "indicator": "QI-PUB",
     "open_year": "2018",
@@ -312,7 +312,7 @@
     "close_year": "2019",
     "open": 0.0,
     "close": 0.0,
-    "change": 0
+    "change": "No Change"
 }],"MATERIALS": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -347,7 +347,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0.0,
-    "change": 0
+    "change": "No Change"
 }],"MECHANICAL": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -382,7 +382,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0.0,
-    "change": 0
+    "change": "No Change"
 }],"METAL": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -417,7 +417,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0,
-    "change": 0
+    "change": "No Change"
 }],"NANOSCI": [{
     "indicator": "QI-PUB",
     "open_year": "2018",
@@ -452,7 +452,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0,
-    "change": 0
+    "change": "No Change"
 }],"TELECOM": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -487,7 +487,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0,
-    "change": 0
+    "change": "No Change"
 }],"TRANSPORT": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -522,7 +522,7 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0,
-    "change": 0
+    "change": "No Change"
 }],"WATER": [{
     "indicator": "QI-PUB",
     "open_year": "2017",
@@ -557,5 +557,5 @@
     "close_year": "2020",
     "open": 0.0,
     "close": 0.0,
-    "change": 0
+    "change": "No Change"
 }]}
