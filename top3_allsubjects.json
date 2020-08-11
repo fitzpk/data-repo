@@ -1,5 +1,5 @@
 {"BIOMED": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 0,
     "1st Inst.": 59.3,
     "1st Name": "U of T",
@@ -8,7 +8,7 @@
     "3rd Inst.": 41.0,
     "3rd Name": "UBC"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 0,
     "1st Inst.": 67.9,
     "1st Name": "U of T",
@@ -17,7 +17,7 @@
     "3rd Inst.": 65.3,
     "3rd Name": "UBC"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 0,
     "1st Inst.": 69.5,
     "1st Name": "U of T",
@@ -26,7 +26,7 @@
     "3rd Inst.": 72.0,
     "3rd Name": "UBC"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 0,
     "1st Inst.": 54.0,
     "1st Name": "U of T",
@@ -35,7 +35,7 @@
     "3rd Inst.": 36.5,
     "3rd Name": "UBC"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "U of T",
@@ -44,7 +44,7 @@
     "3rd Inst.": 0,
     "3rd Name": "UBC"
 }],"BIOTECH": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 25.0,
     "1st Inst.": 61.4,
     "1st Name": "U of T",
@@ -53,7 +53,7 @@
     "3rd Inst.": 41.5,
     "3rd Name": "McGill"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 63.4,
     "1st Inst.": 86.2,
     "1st Name": "U of T",
@@ -62,7 +62,7 @@
     "3rd Inst.": 69.6,
     "3rd Name": "McGill"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 69.7,
     "1st Inst.": 82.0,
     "1st Name": "U of T",
@@ -71,7 +71,7 @@
     "3rd Inst.": 78.7,
     "3rd Name": "McGill"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "U of T",
@@ -80,7 +80,7 @@
     "3rd Inst.": 0,
     "3rd Name": "McGill"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "U of T",
@@ -89,7 +89,7 @@
     "3rd Inst.": 0,
     "3rd Name": "McGill"
 }],"CHEMICAL": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 25.4,
     "1st Inst.": 38.9,
     "1st Name": "Waterloo",
@@ -98,7 +98,7 @@
     "3rd Inst.": 43.8,
     "3rd Name": "Calgary"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 61.6,
     "1st Inst.": 70.7,
     "1st Name": "Waterloo",
@@ -107,7 +107,7 @@
     "3rd Inst.": 61.4,
     "3rd Name": "Calgary"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 61.3,
     "1st Inst.": 81.3,
     "1st Name": "Waterloo",
@@ -116,7 +116,7 @@
     "3rd Inst.": 73.9,
     "3rd Name": "Calgary"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 38.8,
     "1st Inst.": 50.5,
     "1st Name": "Waterloo",
@@ -125,7 +125,7 @@
     "3rd Inst.": 38.8,
     "3rd Name": "Calgary"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0.0,
     "1st Inst.": 0.0,
     "1st Name": "Waterloo",
@@ -134,7 +134,7 @@
     "3rd Inst.": 0.0,
     "3rd Name": "Calgary"
 }],"CIVIL": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 31.8,
     "1st Inst.": 34.4,
     "1st Name": "Western",
@@ -143,7 +143,7 @@
     "3rd Inst.": 31.8,
     "3rd Name": "McMaster"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 66.7,
     "1st Inst.": 70.6,
     "1st Name": "Western",
@@ -152,7 +152,7 @@
     "3rd Inst.": 66.7,
     "3rd Name": "McMaster"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 68.9,
     "1st Inst.": 71.8,
     "1st Name": "Western",
@@ -161,7 +161,7 @@
     "3rd Inst.": 68.9,
     "3rd Name": "McMaster"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 80.4,
     "1st Inst.": 39.6,
     "1st Name": "Western",
@@ -170,7 +170,7 @@
     "3rd Inst.": 80.4,
     "3rd Name": "McMaster"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0.0,
     "1st Inst.": 53.5,
     "1st Name": "Western",
@@ -179,7 +179,7 @@
     "3rd Inst.": 0.0,
     "3rd Name": "McMaster"
 }],"COMPSCI": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 30.9,
     "1st Inst.": 50.1,
     "1st Name": "U of T",
@@ -188,7 +188,7 @@
     "3rd Inst.": 53.4,
     "3rd Name": "UBC"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 100.0,
     "1st Inst.": 78.6,
     "1st Name": "U of T",
@@ -197,7 +197,7 @@
     "3rd Inst.": 78.8,
     "3rd Name": "UBC"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 80.1,
     "1st Inst.": 74.4,
     "1st Name": "U of T",
@@ -206,7 +206,7 @@
     "3rd Inst.": 82.6,
     "3rd Name": "UBC"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 8.9,
     "1st Inst.": 53.0,
     "1st Name": "U of T",
@@ -215,7 +215,7 @@
     "3rd Inst.": 35.3,
     "3rd Name": "UBC"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0.0,
     "1st Inst.": 40.8,
     "1st Name": "U of T",
@@ -224,7 +224,7 @@
     "3rd Inst.": 0.0,
     "3rd Name": "UBC"
 }],"ECE": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 32.9,
     "1st Inst.": 48.1,
     "1st Name": "U of T",
@@ -233,7 +233,7 @@
     "3rd Inst.": 53.9,
     "3rd Name": "UBC"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 71.7,
     "1st Inst.": 81.2,
     "1st Name": "U of T",
@@ -242,7 +242,7 @@
     "3rd Inst.": 91.8,
     "3rd Name": "UBC"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 79.2,
     "1st Inst.": 71.9,
     "1st Name": "U of T",
@@ -251,7 +251,7 @@
     "3rd Inst.": 81.9,
     "3rd Name": "UBC"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 20.9,
     "1st Inst.": 55.2,
     "1st Name": "U of T",
@@ -260,7 +260,7 @@
     "3rd Inst.": 20.9,
     "3rd Name": "UBC"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0.0,
     "1st Inst.": 0.0,
     "1st Name": "U of T",
@@ -269,7 +269,7 @@
     "3rd Inst.": 0.0,
     "3rd Name": "UBC"
 }],"ENERGY": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 22.1,
     "1st Inst.": 38.5,
     "1st Name": "Waterloo",
@@ -278,7 +278,7 @@
     "3rd Inst.": 27.3,
     "3rd Name": "Western"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 59.8,
     "1st Inst.": 80.4,
     "1st Name": "Waterloo",
@@ -287,7 +287,7 @@
     "3rd Inst.": 73.9,
     "3rd Name": "Western"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 63.0,
     "1st Inst.": 80.7,
     "1st Name": "Waterloo",
@@ -296,7 +296,7 @@
     "3rd Inst.": 78.4,
     "3rd Name": "Western"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 12.9,
     "1st Inst.": 52.4,
     "1st Name": "Waterloo",
@@ -305,7 +305,7 @@
     "3rd Inst.": 30.3,
     "3rd Name": "Western"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "Waterloo",
@@ -314,7 +314,7 @@
     "3rd Inst.": 0,
     "3rd Name": "Western"
 }],"ENVIROSCI": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 29.0,
     "1st Inst.": 53.6,
     "1st Name": "U of A",
@@ -323,7 +323,7 @@
     "3rd Inst.": 62.1,
     "3rd Name": "UBC"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 64.8,
     "1st Inst.": 68.7,
     "1st Name": "U of A",
@@ -332,7 +332,7 @@
     "3rd Inst.": 83.3,
     "3rd Name": "UBC"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 74.3,
     "1st Inst.": 79.5,
     "1st Name": "U of A",
@@ -341,7 +341,7 @@
     "3rd Inst.": 82.9,
     "3rd Name": "UBC"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 25.4,
     "1st Inst.": 61.2,
     "1st Name": "U of A",
@@ -350,7 +350,7 @@
     "3rd Inst.": 46.2,
     "3rd Name": "UBC"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0.0,
     "1st Inst.": 70.7,
     "1st Name": "U of A",
@@ -359,7 +359,7 @@
     "3rd Inst.": 0.0,
     "3rd Name": "UBC"
 }],"INSTRUMENT": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 0,
     "1st Inst.": 51.8,
     "1st Name": "U of A",
@@ -368,7 +368,7 @@
     "3rd Inst.": 39.2,
     "3rd Name": "UBC"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 0,
     "1st Inst.": 70.1,
     "1st Name": "U of A",
@@ -377,7 +377,7 @@
     "3rd Inst.": 69.3,
     "3rd Name": "UBC"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 0,
     "1st Inst.": 79.2,
     "1st Name": "U of A",
@@ -386,7 +386,7 @@
     "3rd Inst.": 78.5,
     "3rd Name": "UBC"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "U of A",
@@ -395,7 +395,7 @@
     "3rd Inst.": 0,
     "3rd Name": "UBC"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "U of A",
@@ -404,7 +404,7 @@
     "3rd Inst.": 0,
     "3rd Name": "UBC"
 }],"MATERIALS": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 33.9,
     "1st Inst.": 46.9,
     "1st Name": "U of T",
@@ -413,7 +413,7 @@
     "3rd Inst.": 41.4,
     "3rd Name": "McGill"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 66.7,
     "1st Inst.": 86.1,
     "1st Name": "U of T",
@@ -422,7 +422,7 @@
     "3rd Inst.": 71.3,
     "3rd Name": "McGill"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 78.3,
     "1st Inst.": 75.9,
     "1st Name": "U of T",
@@ -431,7 +431,7 @@
     "3rd Inst.": 73.8,
     "3rd Name": "McGill"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 16.1,
     "1st Inst.": 51.4,
     "1st Name": "U of T",
@@ -440,7 +440,7 @@
     "3rd Inst.": 19.7,
     "3rd Name": "McGill"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0.0,
     "1st Inst.": 0.0,
     "1st Name": "U of T",
@@ -449,7 +449,7 @@
     "3rd Inst.": 0.0,
     "3rd Name": "McGill"
 }],"MECHANICAL": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 23.4,
     "1st Inst.": 40.4,
     "1st Name": "McGill",
@@ -458,7 +458,7 @@
     "3rd Inst.": 30.3,
     "3rd Name": "UBC"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 68.7,
     "1st Inst.": 76.9,
     "1st Name": "McGill",
@@ -467,7 +467,7 @@
     "3rd Inst.": 75.9,
     "3rd Name": "UBC"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 65.3,
     "1st Inst.": 75.3,
     "1st Name": "McGill",
@@ -476,7 +476,7 @@
     "3rd Inst.": 73.6,
     "3rd Name": "UBC"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 23.2,
     "1st Inst.": 46.3,
     "1st Name": "McGill",
@@ -485,7 +485,7 @@
     "3rd Inst.": 40.4,
     "3rd Name": "UBC"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0.0,
     "1st Inst.": 0.0,
     "1st Name": "McGill",
@@ -494,7 +494,7 @@
     "3rd Inst.": 0.0,
     "3rd Name": "UBC"
 }],"METAL": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 34.5,
     "1st Inst.": 35.4,
     "1st Name": "McGill",
@@ -503,7 +503,7 @@
     "3rd Inst.": 31.3,
     "3rd Name": "Waterloo"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 72.4,
     "1st Inst.": 72.3,
     "1st Name": "McGill",
@@ -512,7 +512,7 @@
     "3rd Inst.": 82.3,
     "3rd Name": "Waterloo"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 81.1,
     "1st Inst.": 74.8,
     "1st Name": "McGill",
@@ -521,7 +521,7 @@
     "3rd Inst.": 78.6,
     "3rd Name": "Waterloo"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 45.7,
     "1st Inst.": 47.9,
     "1st Name": "McGill",
@@ -530,7 +530,7 @@
     "3rd Inst.": 28.9,
     "3rd Name": "Waterloo"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "McGill",
@@ -539,7 +539,7 @@
     "3rd Inst.": 0,
     "3rd Name": "Waterloo"
 }],"NANOSCI": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 25.2,
     "1st Inst.": 49.9,
     "1st Name": "U of T",
@@ -548,7 +548,7 @@
     "3rd Inst.": 34.5,
     "3rd Name": "McGill"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 63.2,
     "1st Inst.": 85.2,
     "1st Name": "U of T",
@@ -557,7 +557,7 @@
     "3rd Inst.": 65.0,
     "3rd Name": "McGill"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 76.0,
     "1st Inst.": 76.5,
     "1st Name": "U of T",
@@ -566,7 +566,7 @@
     "3rd Inst.": 74.5,
     "3rd Name": "McGill"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 23.4,
     "1st Inst.": 49.4,
     "1st Name": "U of T",
@@ -575,7 +575,7 @@
     "3rd Inst.": 31.0,
     "3rd Name": "McGill"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "U of T",
@@ -584,7 +584,7 @@
     "3rd Inst.": 0,
     "3rd Name": "McGill"
 }],"TELECOM": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 33.3,
     "1st Inst.": 67.2,
     "1st Name": "UBC",
@@ -593,7 +593,7 @@
     "3rd Inst.": 46.2,
     "3rd Name": "Carleton"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 64.1,
     "1st Inst.": 95.5,
     "1st Name": "UBC",
@@ -602,7 +602,7 @@
     "3rd Inst.": 97.5,
     "3rd Name": "Carleton"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 82.5,
     "1st Inst.": 88.2,
     "1st Name": "UBC",
@@ -611,7 +611,7 @@
     "3rd Inst.": 82.9,
     "3rd Name": "Carleton"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "UBC",
@@ -620,7 +620,7 @@
     "3rd Inst.": 0,
     "3rd Name": "Carleton"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "UBC",
@@ -629,7 +629,7 @@
     "3rd Inst.": 0,
     "3rd Name": "Carleton"
 }],"TRANSPORT": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 42.4,
     "1st Inst.": 68.7,
     "1st Name": "UBC",
@@ -638,7 +638,7 @@
     "3rd Inst.": 58.8,
     "3rd Name": "Montreal"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 80.1,
     "1st Inst.": 78.6,
     "1st Name": "UBC",
@@ -647,7 +647,7 @@
     "3rd Inst.": 74.6,
     "3rd Name": "Montreal"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 69.8,
     "1st Inst.": 83.1,
     "1st Name": "UBC",
@@ -656,7 +656,7 @@
     "3rd Inst.": 76.9,
     "3rd Name": "Montreal"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "UBC",
@@ -665,7 +665,7 @@
     "3rd Inst.": 0,
     "3rd Name": "Montreal"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0,
     "1st Inst.": 0,
     "1st Name": "UBC",
@@ -674,7 +674,7 @@
     "3rd Inst.": 0,
     "3rd Name": "Montreal"
 }],"WATER": [{
-    "indictator": "QI-PUB",
+    "indicator": "QI-PUB",
     "McMaster": 53.0,
     "1st Inst.": 70.9,
     "1st Name": "Saskatchewan",
@@ -683,7 +683,7 @@
     "3rd Inst.": 67.1,
     "3rd Name": "UBC"
 },{
-    "indictator": "CNCI",
+    "indicator": "CNCI",
     "McMaster": 70.8,
     "1st Inst.": 80.1,
     "1st Name": "Saskatchewan",
@@ -692,7 +692,7 @@
     "3rd Inst.": 65.0,
     "3rd Name": "UBC"
 },{
-    "indictator": "IC",
+    "indicator": "IC",
     "McMaster": 75.5,
     "1st Inst.": 80.6,
     "1st Name": "Saskatchewan",
@@ -701,7 +701,7 @@
     "3rd Inst.": 76.0,
     "3rd Name": "UBC"
 },{
-    "indictator": "TOP",
+    "indicator": "TOP",
     "McMaster": 51.1,
     "1st Inst.": 74.2,
     "1st Name": "Saskatchewan",
@@ -710,7 +710,7 @@
     "3rd Inst.": 59.0,
     "3rd Name": "UBC"
 },{
-    "indictator": "AWARD",
+    "indicator": "AWARD",
     "McMaster": 0.0,
     "1st Inst.": 0.0,
     "1st Name": "Saskatchewan",
