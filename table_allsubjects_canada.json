@@ -1,0 +1,2278 @@
+{"BIOMED": [{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 59.3,
+    "CNCI": 67.9,
+    "IC": 69.5,
+    "TOP": 54.0,
+    "AWARD": 0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 44.1,
+    "CNCI": 73.2,
+    "IC": 75.7,
+    "TOP": 30.3,
+    "AWARD": 0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 41.0,
+    "CNCI": 65.3,
+    "IC": 72.0,
+    "TOP": 36.5,
+    "AWARD": 0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 32.2,
+    "CNCI": 69.6,
+    "IC": 73.1,
+    "TOP": 27.4,
+    "AWARD": 0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 28.2,
+    "CNCI": 69.2,
+    "IC": 67.6,
+    "TOP": 25.8,
+    "AWARD": 0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 30.1,
+    "CNCI": 64.3,
+    "IC": 69.3,
+    "TOP": 24.2,
+    "AWARD": 0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 33.9,
+    "CNCI": 63.9,
+    "IC": 62.7,
+    "TOP": 20.4,
+    "AWARD": 0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 28.9,
+    "CNCI": 61.2,
+    "IC": 67.6,
+    "TOP": 25.8,
+    "AWARD": 0
+},{
+    "institution": "Queen's University",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 24.6,
+    "CNCI": 63.2,
+    "IC": 69.2,
+    "TOP": 25.8,
+    "AWARD": 0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 30.7,
+    "CNCI": 59.4,
+    "IC": 71.1,
+    "TOP": 20.4,
+    "AWARD": 0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 24.6,
+    "CNCI": 61.4,
+    "IC": 75.0,
+    "TOP": 18.3,
+    "AWARD": 0
+}],"BIOTECH": [{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 61.4,
+    "CNCI": 86.2,
+    "IC": 82.0,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 57.1,
+    "CNCI": 86.3,
+    "IC": 87.5,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 41.5,
+    "CNCI": 69.6,
+    "IC": 78.7,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 39.7,
+    "CNCI": 70.0,
+    "IC": 79.0,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 37.5,
+    "CNCI": 65.1,
+    "IC": 71.5,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 34.6,
+    "CNCI": 71.1,
+    "IC": 68.4,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 35.6,
+    "CNCI": 63.7,
+    "IC": 69.4,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 30.4,
+    "CNCI": 71.8,
+    "IC": 75.5,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 33.7,
+    "CNCI": 63.8,
+    "IC": 76.3,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Guelph",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 29.6,
+    "CNCI": 67.4,
+    "IC": 71.3,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 29.3,
+    "CNCI": 64.8,
+    "IC": 71.8,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 28.0,
+    "CNCI": 63.1,
+    "IC": 69.4,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Manitoba",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 28.0,
+    "CNCI": 59.6,
+    "IC": 69.8,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 25.0,
+    "CNCI": 63.4,
+    "IC": 69.7,
+    "TOP": 0,
+    "AWARD": 0
+}],"CHEMICAL": [{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 38.9,
+    "CNCI": 70.7,
+    "IC": 81.3,
+    "TOP": 50.5,
+    "AWARD": 0.0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 50.9,
+    "CNCI": 61.8,
+    "IC": 72.4,
+    "TOP": 48.9,
+    "AWARD": 0.0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 43.8,
+    "CNCI": 61.4,
+    "IC": 73.9,
+    "TOP": 38.8,
+    "AWARD": 0.0
+},{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 33.9,
+    "CNCI": 72.0,
+    "IC": 77.2,
+    "TOP": 32.3,
+    "AWARD": 0.0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 32.4,
+    "CNCI": 81.5,
+    "IC": 81.0,
+    "TOP": 20.6,
+    "AWARD": 0.0
+},{
+    "institution": "University of Regina",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 28.3,
+    "CNCI": 69.6,
+    "IC": 80.4,
+    "TOP": 33.5,
+    "AWARD": 0.0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 34.8,
+    "CNCI": 65.0,
+    "IC": 76.9,
+    "TOP": 31.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 29.0,
+    "CNCI": 69.5,
+    "IC": 73.5,
+    "TOP": 31.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 36.8,
+    "CNCI": 61.5,
+    "IC": 81.8,
+    "TOP": 28.5,
+    "AWARD": 0.0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 31.2,
+    "CNCI": 66.5,
+    "IC": 73.7,
+    "TOP": 27.8,
+    "AWARD": 0.0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 25.4,
+    "CNCI": 61.6,
+    "IC": 61.3,
+    "TOP": 38.8,
+    "AWARD": 0.0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 27.8,
+    "CNCI": 59.7,
+    "IC": 71.6,
+    "TOP": 24.1,
+    "AWARD": 0.0
+},{
+    "institution": "Memorial University of Newfoundland",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 23.1,
+    "CNCI": 61.1,
+    "IC": 75.8,
+    "TOP": 26.4,
+    "AWARD": 0.0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 25.4,
+    "CNCI": 54.9,
+    "IC": 58.9,
+    "TOP": 24.1,
+    "AWARD": 0.0
+},{
+    "institution": "Ryerson University",
+    "country": "Canada",
+    "World_Rank": "15",
+    "QI_PUB": 17.8,
+    "CNCI": 66.3,
+    "IC": 53.4,
+    "TOP": 18.6,
+    "AWARD": 0.0
+},{
+    "institution": "Dalhousie University",
+    "country": "Canada",
+    "World_Rank": "16",
+    "QI_PUB": 18.3,
+    "CNCI": 67.1,
+    "IC": 63.8,
+    "TOP": 12.4,
+    "AWARD": 0.0
+},{
+    "institution": "Queen's University",
+    "country": "Canada",
+    "World_Rank": "17",
+    "QI_PUB": 20.0,
+    "CNCI": 53.6,
+    "IC": 66.4,
+    "TOP": 22.4,
+    "AWARD": 0.0
+}],"CIVIL": [{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 34.4,
+    "CNCI": 70.6,
+    "IC": 71.8,
+    "TOP": 39.6,
+    "AWARD": 53.5
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 45.5,
+    "CNCI": 69.9,
+    "IC": 76.1,
+    "TOP": 62.6,
+    "AWARD": 0.0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 31.8,
+    "CNCI": 66.7,
+    "IC": 68.9,
+    "TOP": 80.4,
+    "AWARD": 0.0
+},{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 42.3,
+    "CNCI": 66.0,
+    "IC": 68.9,
+    "TOP": 67.2,
+    "AWARD": 0.0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 27.8,
+    "CNCI": 65.1,
+    "IC": 63.1,
+    "TOP": 65.7,
+    "AWARD": 0.0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 37.1,
+    "CNCI": 71.2,
+    "IC": 79.1,
+    "TOP": 44.3,
+    "AWARD": 0.0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 43.7,
+    "CNCI": 69.0,
+    "IC": 73.6,
+    "TOP": 37.0,
+    "AWARD": 0.0
+},{
+    "institution": "Concordia University",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 40.4,
+    "CNCI": 67.4,
+    "IC": 62.8,
+    "TOP": 42.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 33.4,
+    "CNCI": 65.4,
+    "IC": 62.8,
+    "TOP": 50.5,
+    "AWARD": 0.0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 38.4,
+    "CNCI": 55.7,
+    "IC": 62.2,
+    "TOP": 50.5,
+    "AWARD": 0.0
+},{
+    "institution": "University of Sherbrooke",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 36.1,
+    "CNCI": 64.0,
+    "IC": 76.2,
+    "TOP": 37.0,
+    "AWARD": 0.0
+},{
+    "institution": "Carleton University",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 24.3,
+    "CNCI": 74.8,
+    "IC": 57.2,
+    "TOP": 39.6,
+    "AWARD": 0.0
+},{
+    "institution": "Ryerson University",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 33.3,
+    "CNCI": 67.2,
+    "IC": 75.3,
+    "TOP": 19.8,
+    "AWARD": 0.0
+},{
+    "institution": "Queen's University",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 31.2,
+    "CNCI": 60.3,
+    "IC": 57.8,
+    "TOP": 31.3,
+    "AWARD": 0.0
+},{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "15",
+    "QI_PUB": 25.1,
+    "CNCI": 68.6,
+    "IC": 80.0,
+    "TOP": 14.0,
+    "AWARD": 0.0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "16",
+    "QI_PUB": 33.9,
+    "CNCI": 67.7,
+    "IC": 74.1,
+    "TOP": 0.0,
+    "AWARD": 0.0
+}],"COMPSCI": [{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 50.1,
+    "CNCI": 78.6,
+    "IC": 74.4,
+    "TOP": 53.0,
+    "AWARD": 40.8
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 43.5,
+    "CNCI": 69.9,
+    "IC": 75.7,
+    "TOP": 30.2,
+    "AWARD": 30.9
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 53.4,
+    "CNCI": 78.8,
+    "IC": 82.6,
+    "TOP": 35.3,
+    "AWARD": 0.0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 53.5,
+    "CNCI": 72.3,
+    "IC": 82.6,
+    "TOP": 37.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 51.0,
+    "CNCI": 76.2,
+    "IC": 84.2,
+    "TOP": 32.7,
+    "AWARD": 0.0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 30.9,
+    "CNCI": 100.0,
+    "IC": 80.1,
+    "TOP": 8.9,
+    "AWARD": 0.0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 40.5,
+    "CNCI": 69.0,
+    "IC": 79.2,
+    "TOP": 29.6,
+    "AWARD": 0.0
+},{
+    "institution": "Simon Fraser University",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 37.7,
+    "CNCI": 65.7,
+    "IC": 81.5,
+    "TOP": 33.1,
+    "AWARD": 0.0
+},{
+    "institution": "St. Francis Xavier University",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 26.0,
+    "CNCI": 98.1,
+    "IC": 100.0,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 32.5,
+    "CNCI": 79.6,
+    "IC": 73.4,
+    "TOP": 16.4,
+    "AWARD": 0.0
+},{
+    "institution": "York University",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 22.9,
+    "CNCI": 83.8,
+    "IC": 81.3,
+    "TOP": 17.1,
+    "AWARD": 0.0
+},{
+    "institution": "Carleton University",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 33.0,
+    "CNCI": 77.2,
+    "IC": 81.3,
+    "TOP": 13.5,
+    "AWARD": 0.0
+},{
+    "institution": "University of Manitoba",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 23.4,
+    "CNCI": 84.6,
+    "IC": 74.7,
+    "TOP": 13.5,
+    "AWARD": 0.0
+},{
+    "institution": "Concordia University",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 41.3,
+    "CNCI": 70.7,
+    "IC": 71.7,
+    "TOP": 9.3,
+    "AWARD": 0.0
+},{
+    "institution": "University of Victoria",
+    "country": "Canada",
+    "World_Rank": "15",
+    "QI_PUB": 30.8,
+    "CNCI": 76.9,
+    "IC": 87.5,
+    "TOP": 8.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of Sherbrooke",
+    "country": "Canada",
+    "World_Rank": "16",
+    "QI_PUB": 22.1,
+    "CNCI": 82.2,
+    "IC": 74.3,
+    "TOP": 10.5,
+    "AWARD": 0.0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "17",
+    "QI_PUB": 36.2,
+    "CNCI": 67.3,
+    "IC": 77.9,
+    "TOP": 10.5,
+    "AWARD": 0.0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "18",
+    "QI_PUB": 32.4,
+    "CNCI": 60.7,
+    "IC": 80.5,
+    "TOP": 20.1,
+    "AWARD": 0.0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "19",
+    "QI_PUB": 19.7,
+    "CNCI": 77.5,
+    "IC": 71.5,
+    "TOP": 15.4,
+    "AWARD": 0.0
+},{
+    "institution": "Memorial University of Newfoundland",
+    "country": "Canada",
+    "World_Rank": "20",
+    "QI_PUB": 24.5,
+    "CNCI": 77.2,
+    "IC": 77.9,
+    "TOP": 8.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "21",
+    "QI_PUB": 18.3,
+    "CNCI": 71.9,
+    "IC": 76.8,
+    "TOP": 18.9,
+    "AWARD": 0.0
+},{
+    "institution": "Ryerson University",
+    "country": "Canada",
+    "World_Rank": "22",
+    "QI_PUB": 31.2,
+    "CNCI": 64.1,
+    "IC": 80.1,
+    "TOP": 11.6,
+    "AWARD": 0.0
+},{
+    "institution": "Ecole de Technologie Superieure - Canada",
+    "country": "Canada",
+    "World_Rank": "23",
+    "QI_PUB": 27.5,
+    "CNCI": 69.8,
+    "IC": 72.0,
+    "TOP": 6.3,
+    "AWARD": 0.0
+},{
+    "institution": "University of Windsor",
+    "country": "Canada",
+    "World_Rank": "24",
+    "QI_PUB": 20.8,
+    "CNCI": 76.8,
+    "IC": 78.7,
+    "TOP": 2.8,
+    "AWARD": 0.0
+},{
+    "institution": "Queen's University",
+    "country": "Canada",
+    "World_Rank": "25",
+    "QI_PUB": 26.8,
+    "CNCI": 65.8,
+    "IC": 68.0,
+    "TOP": 9.7,
+    "AWARD": 0.0
+},{
+    "institution": "Ontario Tech University",
+    "country": "Canada",
+    "World_Rank": "26",
+    "QI_PUB": 18.8,
+    "CNCI": 74.6,
+    "IC": 77.8,
+    "TOP": 6.9,
+    "AWARD": 0.0
+},{
+    "institution": "University of Quebec Montreal",
+    "country": "Canada",
+    "World_Rank": "27",
+    "QI_PUB": 26.8,
+    "CNCI": 70.5,
+    "IC": 73.4,
+    "TOP": 2.8,
+    "AWARD": 0.0
+},{
+    "institution": "Dalhousie University",
+    "country": "Canada",
+    "World_Rank": "28",
+    "QI_PUB": 19.2,
+    "CNCI": 70.0,
+    "IC": 76.7,
+    "TOP": 9.7,
+    "AWARD": 0.0
+}],"ECE": [{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 48.1,
+    "CNCI": 81.2,
+    "IC": 71.9,
+    "TOP": 55.2,
+    "AWARD": 0.0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 56.8,
+    "CNCI": 82.7,
+    "IC": 79.9,
+    "TOP": 36.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 53.9,
+    "CNCI": 91.8,
+    "IC": 81.9,
+    "TOP": 20.9,
+    "AWARD": 0.0
+},{
+    "institution": "Queen's University",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 29.8,
+    "CNCI": 68.0,
+    "IC": 74.4,
+    "TOP": 46.6,
+    "AWARD": 0.0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 38.5,
+    "CNCI": 67.7,
+    "IC": 74.4,
+    "TOP": 36.1,
+    "AWARD": 0.0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 30.0,
+    "CNCI": 87.2,
+    "IC": 69.4,
+    "TOP": 20.9,
+    "AWARD": 0.0
+},{
+    "institution": "Ryerson University",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 34.5,
+    "CNCI": 80.0,
+    "IC": 71.1,
+    "TOP": 20.9,
+    "AWARD": 0.0
+},{
+    "institution": "University of Victoria",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 30.2,
+    "CNCI": 78.1,
+    "IC": 84.8,
+    "TOP": 20.9,
+    "AWARD": 0.0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 51.2,
+    "CNCI": 77.9,
+    "IC": 76.1,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 32.6,
+    "CNCI": 63.9,
+    "IC": 79.7,
+    "TOP": 29.5,
+    "AWARD": 0.0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 32.9,
+    "CNCI": 71.7,
+    "IC": 79.2,
+    "TOP": 20.9,
+    "AWARD": 0.0
+},{
+    "institution": "Carleton University",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 33.1,
+    "CNCI": 91.6,
+    "IC": 78.3,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "York University",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 21.9,
+    "CNCI": 80.6,
+    "IC": 80.4,
+    "TOP": 20.9,
+    "AWARD": 0.0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 35.0,
+    "CNCI": 65.7,
+    "IC": 73.8,
+    "TOP": 20.9,
+    "AWARD": 0.0
+},{
+    "institution": "Concordia University",
+    "country": "Canada",
+    "World_Rank": "15",
+    "QI_PUB": 42.3,
+    "CNCI": 73.3,
+    "IC": 76.0,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "Simon Fraser University",
+    "country": "Canada",
+    "World_Rank": "16",
+    "QI_PUB": 24.8,
+    "CNCI": 67.2,
+    "IC": 77.0,
+    "TOP": 20.9,
+    "AWARD": 0.0
+},{
+    "institution": "University of Manitoba",
+    "country": "Canada",
+    "World_Rank": "17",
+    "QI_PUB": 30.0,
+    "CNCI": 83.2,
+    "IC": 69.7,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of Quebec Montreal",
+    "country": "Canada",
+    "World_Rank": "18",
+    "QI_PUB": 29.1,
+    "CNCI": 79.5,
+    "IC": 75.9,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "Ecole de Technologie Superieure - Canada",
+    "country": "Canada",
+    "World_Rank": "19",
+    "QI_PUB": 29.2,
+    "CNCI": 77.0,
+    "IC": 71.4,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "20",
+    "QI_PUB": 30.5,
+    "CNCI": 70.3,
+    "IC": 78.3,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "Memorial University of Newfoundland",
+    "country": "Canada",
+    "World_Rank": "21",
+    "QI_PUB": 22.4,
+    "CNCI": 76.2,
+    "IC": 73.3,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "Ontario Tech University",
+    "country": "Canada",
+    "World_Rank": "22",
+    "QI_PUB": 21.1,
+    "CNCI": 73.1,
+    "IC": 65.9,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of New Brunswick",
+    "country": "Canada",
+    "World_Rank": "23",
+    "QI_PUB": 18.4,
+    "CNCI": 74.1,
+    "IC": 73.9,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of Sherbrooke",
+    "country": "Canada",
+    "World_Rank": "24",
+    "QI_PUB": 19.8,
+    "CNCI": 71.2,
+    "IC": 73.4,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "25",
+    "QI_PUB": 20.5,
+    "CNCI": 67.4,
+    "IC": 77.9,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of Windsor",
+    "country": "Canada",
+    "World_Rank": "26",
+    "QI_PUB": 17.6,
+    "CNCI": 69.3,
+    "IC": 75.1,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "27",
+    "QI_PUB": 20.6,
+    "CNCI": 66.0,
+    "IC": 65.6,
+    "TOP": 0.0,
+    "AWARD": 0.0
+},{
+    "institution": "Dalhousie University",
+    "country": "Canada",
+    "World_Rank": "28",
+    "QI_PUB": 15.0,
+    "CNCI": 66.0,
+    "IC": 83.8,
+    "TOP": 0.0,
+    "AWARD": 0.0
+}],"ENERGY": [{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 38.5,
+    "CNCI": 80.4,
+    "IC": 80.7,
+    "TOP": 52.4,
+    "AWARD": 0
+},{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 35.4,
+    "CNCI": 69.7,
+    "IC": 79.2,
+    "TOP": 34.2,
+    "AWARD": 0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 27.3,
+    "CNCI": 73.9,
+    "IC": 78.4,
+    "TOP": 30.3,
+    "AWARD": 0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 40.0,
+    "CNCI": 63.8,
+    "IC": 70.7,
+    "TOP": 22.4,
+    "AWARD": 0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 31.9,
+    "CNCI": 70.7,
+    "IC": 84.7,
+    "TOP": 15.8,
+    "AWARD": 0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 28.1,
+    "CNCI": 69.1,
+    "IC": 76.0,
+    "TOP": 20.4,
+    "AWARD": 0
+},{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 24.2,
+    "CNCI": 68.1,
+    "IC": 77.0,
+    "TOP": 22.4,
+    "AWARD": 0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 39.3,
+    "CNCI": 63.4,
+    "IC": 77.0,
+    "TOP": 9.1,
+    "AWARD": 0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 20.9,
+    "CNCI": 60.8,
+    "IC": 76.7,
+    "TOP": 24.2,
+    "AWARD": 0
+},{
+    "institution": "Ontario Tech University",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 30.9,
+    "CNCI": 67.6,
+    "IC": 77.9,
+    "TOP": 0.0,
+    "AWARD": 0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 22.1,
+    "CNCI": 59.8,
+    "IC": 63.0,
+    "TOP": 12.9,
+    "AWARD": 0
+},{
+    "institution": "University of Regina",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 22.6,
+    "CNCI": 67.9,
+    "IC": 83.3,
+    "TOP": 0.0,
+    "AWARD": 0
+},{
+    "institution": "Concordia University",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 21.3,
+    "CNCI": 70.1,
+    "IC": 75.1,
+    "TOP": 0.0,
+    "AWARD": 0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 24.6,
+    "CNCI": 59.0,
+    "IC": 74.5,
+    "TOP": 0.0,
+    "AWARD": 0
+}],"ENVIROSCI": [{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 53.6,
+    "CNCI": 68.7,
+    "IC": 79.5,
+    "TOP": 61.2,
+    "AWARD": 70.7
+},{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 61.9,
+    "CNCI": 70.6,
+    "IC": 80.3,
+    "TOP": 73.0,
+    "AWARD": 0.0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 62.1,
+    "CNCI": 83.3,
+    "IC": 82.9,
+    "TOP": 46.2,
+    "AWARD": 0.0
+},{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 49.4,
+    "CNCI": 69.7,
+    "IC": 85.8,
+    "TOP": 58.5,
+    "AWARD": 0.0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 51.9,
+    "CNCI": 77.2,
+    "IC": 80.7,
+    "TOP": 39.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 48.4,
+    "CNCI": 67.9,
+    "IC": 79.2,
+    "TOP": 43.1,
+    "AWARD": 0.0
+},{
+    "institution": "Dalhousie University",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 38.0,
+    "CNCI": 82.1,
+    "IC": 81.4,
+    "TOP": 33.6,
+    "AWARD": 0.0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 44.0,
+    "CNCI": 67.5,
+    "IC": 75.1,
+    "TOP": 34.2,
+    "AWARD": 0.0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 36.6,
+    "CNCI": 72.2,
+    "IC": 75.9,
+    "TOP": 35.9,
+    "AWARD": 0.0
+},{
+    "institution": "Carleton University",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 34.4,
+    "CNCI": 69.9,
+    "IC": 73.2,
+    "TOP": 40.2,
+    "AWARD": 0.0
+},{
+    "institution": "University of Victoria",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 31.9,
+    "CNCI": 79.3,
+    "IC": 77.5,
+    "TOP": 20.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of Guelph",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 33.6,
+    "CNCI": 67.8,
+    "IC": 76.4,
+    "TOP": 29.1,
+    "AWARD": 0.0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 30.7,
+    "CNCI": 67.6,
+    "IC": 73.3,
+    "TOP": 30.5,
+    "AWARD": 0.0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 32.9,
+    "CNCI": 58.3,
+    "IC": 72.2,
+    "TOP": 36.5,
+    "AWARD": 0.0
+},{
+    "institution": "University of Quebec Montreal",
+    "country": "Canada",
+    "World_Rank": "15",
+    "QI_PUB": 31.7,
+    "CNCI": 71.2,
+    "IC": 85.5,
+    "TOP": 21.1,
+    "AWARD": 0.0
+},{
+    "institution": "Simon Fraser University",
+    "country": "Canada",
+    "World_Rank": "16",
+    "QI_PUB": 32.3,
+    "CNCI": 71.7,
+    "IC": 75.3,
+    "TOP": 19.1,
+    "AWARD": 0.0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "17",
+    "QI_PUB": 38.2,
+    "CNCI": 63.9,
+    "IC": 76.2,
+    "TOP": 20.1,
+    "AWARD": 0.0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "18",
+    "QI_PUB": 29.0,
+    "CNCI": 64.8,
+    "IC": 74.3,
+    "TOP": 25.4,
+    "AWARD": 0.0
+},{
+    "institution": "Trent University",
+    "country": "Canada",
+    "World_Rank": "19",
+    "QI_PUB": 27.0,
+    "CNCI": 60.5,
+    "IC": 71.9,
+    "TOP": 25.4,
+    "AWARD": 0.0
+},{
+    "institution": "University of Manitoba",
+    "country": "Canada",
+    "World_Rank": "20",
+    "QI_PUB": 27.7,
+    "CNCI": 61.3,
+    "IC": 73.8,
+    "TOP": 22.9,
+    "AWARD": 0.0
+},{
+    "institution": "University of New Brunswick",
+    "country": "Canada",
+    "World_Rank": "21",
+    "QI_PUB": 21.5,
+    "CNCI": 73.0,
+    "IC": 81.4,
+    "TOP": 14.2,
+    "AWARD": 0.0
+},{
+    "institution": "Concordia University",
+    "country": "Canada",
+    "World_Rank": "22",
+    "QI_PUB": 24.2,
+    "CNCI": 71.5,
+    "IC": 67.5,
+    "TOP": 14.2,
+    "AWARD": 0.0
+},{
+    "institution": "Memorial University of Newfoundland",
+    "country": "Canada",
+    "World_Rank": "23",
+    "QI_PUB": 25.6,
+    "CNCI": 66.7,
+    "IC": 77.0,
+    "TOP": 12.7,
+    "AWARD": 0.0
+},{
+    "institution": "Queen's University",
+    "country": "Canada",
+    "World_Rank": "24",
+    "QI_PUB": 26.9,
+    "CNCI": 56.6,
+    "IC": 70.9,
+    "TOP": 22.0,
+    "AWARD": 0.0
+}],"INSTRUMENT": [{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 51.8,
+    "CNCI": 70.1,
+    "IC": 79.2,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 43.3,
+    "CNCI": 64.1,
+    "IC": 72.6,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 39.2,
+    "CNCI": 69.3,
+    "IC": 78.5,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Ryerson University",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 31.8,
+    "CNCI": 72.6,
+    "IC": 74.3,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 33.9,
+    "CNCI": 61.0,
+    "IC": 79.8,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 33.7,
+    "CNCI": 60.1,
+    "IC": 79.7,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 32.0,
+    "CNCI": 58.7,
+    "IC": 78.8,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 27.6,
+    "CNCI": 66.9,
+    "IC": 70.6,
+    "TOP": 0,
+    "AWARD": 0
+}],"MATERIALS": [{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 46.9,
+    "CNCI": 86.1,
+    "IC": 75.9,
+    "TOP": 51.4,
+    "AWARD": 0.0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 43.4,
+    "CNCI": 84.2,
+    "IC": 76.6,
+    "TOP": 33.5,
+    "AWARD": 0.0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 41.4,
+    "CNCI": 71.3,
+    "IC": 73.8,
+    "TOP": 19.7,
+    "AWARD": 0.0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 28.6,
+    "CNCI": 78.1,
+    "IC": 73.9,
+    "TOP": 19.7,
+    "AWARD": 0.0
+},{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 26.2,
+    "CNCI": 72.4,
+    "IC": 85.1,
+    "TOP": 23.7,
+    "AWARD": 0.0
+},{
+    "institution": "Dalhousie University",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 27.6,
+    "CNCI": 80.9,
+    "IC": 68.7,
+    "TOP": 16.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 35.1,
+    "CNCI": 66.6,
+    "IC": 78.6,
+    "TOP": 19.7,
+    "AWARD": 0.0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 39.6,
+    "CNCI": 69.2,
+    "IC": 74.2,
+    "TOP": 13.2,
+    "AWARD": 0.0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 33.9,
+    "CNCI": 66.7,
+    "IC": 78.3,
+    "TOP": 16.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 30.4,
+    "CNCI": 68.6,
+    "IC": 71.7,
+    "TOP": 14.7,
+    "AWARD": 0.0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 21.6,
+    "CNCI": 74.3,
+    "IC": 75.9,
+    "TOP": 9.3,
+    "AWARD": 0.0
+}],"MECHANICAL": [{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 40.4,
+    "CNCI": 76.9,
+    "IC": 75.3,
+    "TOP": 46.3,
+    "AWARD": 0.0
+},{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 36.2,
+    "CNCI": 75.6,
+    "IC": 69.1,
+    "TOP": 42.5,
+    "AWARD": 0.0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 30.3,
+    "CNCI": 75.9,
+    "IC": 73.6,
+    "TOP": 40.4,
+    "AWARD": 0.0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 34.3,
+    "CNCI": 74.0,
+    "IC": 68.5,
+    "TOP": 34.4,
+    "AWARD": 0.0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 32.0,
+    "CNCI": 70.7,
+    "IC": 76.6,
+    "TOP": 32.4,
+    "AWARD": 0.0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 20.4,
+    "CNCI": 80.5,
+    "IC": 66.6,
+    "TOP": 26.6,
+    "AWARD": 0.0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 23.2,
+    "CNCI": 68.0,
+    "IC": 68.3,
+    "TOP": 33.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of Sherbrooke",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 24.5,
+    "CNCI": 64.6,
+    "IC": 72.9,
+    "TOP": 33.7,
+    "AWARD": 0.0
+},{
+    "institution": "Concordia University",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 26.2,
+    "CNCI": 70.1,
+    "IC": 71.9,
+    "TOP": 24.9,
+    "AWARD": 0.0
+},{
+    "institution": "Ryerson University",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 29.7,
+    "CNCI": 70.9,
+    "IC": 62.2,
+    "TOP": 20.7,
+    "AWARD": 0.0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 31.1,
+    "CNCI": 64.1,
+    "IC": 66.6,
+    "TOP": 22.7,
+    "AWARD": 0.0
+},{
+    "institution": "Ontario Tech University",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 23.7,
+    "CNCI": 76.1,
+    "IC": 68.1,
+    "TOP": 16.7,
+    "AWARD": 0.0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 23.4,
+    "CNCI": 68.7,
+    "IC": 65.3,
+    "TOP": 23.2,
+    "AWARD": 0.0
+},{
+    "institution": "Dalhousie University",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 20.4,
+    "CNCI": 78.1,
+    "IC": 60.5,
+    "TOP": 14.6,
+    "AWARD": 0.0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "15",
+    "QI_PUB": 21.6,
+    "CNCI": 62.8,
+    "IC": 76.5,
+    "TOP": 24.9,
+    "AWARD": 0.0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "16",
+    "QI_PUB": 25.1,
+    "CNCI": 66.2,
+    "IC": 60.8,
+    "TOP": 19.7,
+    "AWARD": 0.0
+},{
+    "institution": "Ecole de Technologie Superieure - Canada",
+    "country": "Canada",
+    "World_Rank": "17",
+    "QI_PUB": 24.3,
+    "CNCI": 68.5,
+    "IC": 60.3,
+    "TOP": 17.3,
+    "AWARD": 0.0
+},{
+    "institution": "University of Manitoba",
+    "country": "Canada",
+    "World_Rank": "18",
+    "QI_PUB": 18.8,
+    "CNCI": 68.4,
+    "IC": 62.7,
+    "TOP": 21.2,
+    "AWARD": 0.0
+},{
+    "institution": "University of Windsor",
+    "country": "Canada",
+    "World_Rank": "19",
+    "QI_PUB": 22.4,
+    "CNCI": 60.5,
+    "IC": 63.4,
+    "TOP": 20.7,
+    "AWARD": 0.0
+},{
+    "institution": "Carleton University",
+    "country": "Canada",
+    "World_Rank": "20",
+    "QI_PUB": 20.7,
+    "CNCI": 59.4,
+    "IC": 58.9,
+    "TOP": 22.2,
+    "AWARD": 0.0
+}],"METAL": [{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 35.4,
+    "CNCI": 72.3,
+    "IC": 74.8,
+    "TOP": 47.9,
+    "AWARD": 0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 34.5,
+    "CNCI": 72.4,
+    "IC": 81.1,
+    "TOP": 45.7,
+    "AWARD": 0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 31.3,
+    "CNCI": 82.3,
+    "IC": 78.6,
+    "TOP": 28.9,
+    "AWARD": 0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 27.5,
+    "CNCI": 71.1,
+    "IC": 78.0,
+    "TOP": 33.2,
+    "AWARD": 0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 29.3,
+    "CNCI": 64.9,
+    "IC": 73.1,
+    "TOP": 31.8,
+    "AWARD": 0
+},{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 20.8,
+    "CNCI": 59.9,
+    "IC": 76.1,
+    "TOP": 31.8,
+    "AWARD": 0
+}],"NANOSCI": [{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 49.9,
+    "CNCI": 85.2,
+    "IC": 76.5,
+    "TOP": 49.4,
+    "AWARD": 0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 39.7,
+    "CNCI": 78.2,
+    "IC": 75.5,
+    "TOP": 37.5,
+    "AWARD": 0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 34.5,
+    "CNCI": 65.0,
+    "IC": 74.5,
+    "TOP": 31.0,
+    "AWARD": 0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 36.9,
+    "CNCI": 65.6,
+    "IC": 73.6,
+    "TOP": 27.7,
+    "AWARD": 0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 25.3,
+    "CNCI": 77.4,
+    "IC": 76.3,
+    "TOP": 18.7,
+    "AWARD": 0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 25.7,
+    "CNCI": 64.6,
+    "IC": 78.7,
+    "TOP": 23.1,
+    "AWARD": 0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 28.3,
+    "CNCI": 58.4,
+    "IC": 78.2,
+    "TOP": 25.2,
+    "AWARD": 0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 25.2,
+    "CNCI": 63.2,
+    "IC": 76.0,
+    "TOP": 23.4,
+    "AWARD": 0
+},{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 19.3,
+    "CNCI": 64.8,
+    "IC": 80.3,
+    "TOP": 16.5,
+    "AWARD": 0
+}],"TELECOM": [{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 67.2,
+    "CNCI": 95.5,
+    "IC": 88.2,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 62.0,
+    "CNCI": 88.7,
+    "IC": 87.5,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Carleton University",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 46.2,
+    "CNCI": 97.5,
+    "IC": 82.9,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 45.8,
+    "CNCI": 76.5,
+    "IC": 67.3,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Manitoba",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 38.3,
+    "CNCI": 88.0,
+    "IC": 72.6,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Concordia University",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 44.5,
+    "CNCI": 73.1,
+    "IC": 75.7,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 41.5,
+    "CNCI": 72.7,
+    "IC": 80.3,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 30.9,
+    "CNCI": 92.3,
+    "IC": 78.7,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Quebec Montreal",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 39.2,
+    "CNCI": 73.8,
+    "IC": 75.0,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Ottawa",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 39.9,
+    "CNCI": 69.0,
+    "IC": 77.2,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 40.6,
+    "CNCI": 65.1,
+    "IC": 78.2,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Victoria",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 36.4,
+    "CNCI": 66.5,
+    "IC": 88.3,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Memorial University of Newfoundland",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 29.2,
+    "CNCI": 81.6,
+    "IC": 82.9,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 33.3,
+    "CNCI": 64.1,
+    "IC": 82.5,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Ecole de Technologie Superieure - Canada",
+    "country": "Canada",
+    "World_Rank": "15",
+    "QI_PUB": 27.3,
+    "CNCI": 78.4,
+    "IC": 69.9,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Ryerson University",
+    "country": "Canada",
+    "World_Rank": "16",
+    "QI_PUB": 32.1,
+    "CNCI": 64.6,
+    "IC": 81.4,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "17",
+    "QI_PUB": 32.6,
+    "CNCI": 62.5,
+    "IC": 77.3,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Queen's University",
+    "country": "Canada",
+    "World_Rank": "18",
+    "QI_PUB": 29.8,
+    "CNCI": 58.7,
+    "IC": 78.9,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "19",
+    "QI_PUB": 28.3,
+    "CNCI": 56.0,
+    "IC": 78.6,
+    "TOP": 0,
+    "AWARD": 0
+}],"TRANSPORT": [{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 68.7,
+    "CNCI": 78.6,
+    "IC": 83.1,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 66.7,
+    "CNCI": 82.2,
+    "IC": 83.6,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Montreal",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 58.8,
+    "CNCI": 74.6,
+    "IC": 76.9,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Carleton University",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 42.0,
+    "CNCI": 96.5,
+    "IC": 87.6,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 50.2,
+    "CNCI": 75.3,
+    "IC": 66.1,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Toronto",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 54.1,
+    "CNCI": 66.0,
+    "IC": 60.2,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 42.4,
+    "CNCI": 80.1,
+    "IC": 69.8,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Manitoba",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 35.5,
+    "CNCI": 92.3,
+    "IC": 75.2,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Quebec Montreal",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 33.6,
+    "CNCI": 82.6,
+    "IC": 81.3,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Concordia University",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 41.2,
+    "CNCI": 60.0,
+    "IC": 79.8,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Ryerson University",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 38.7,
+    "CNCI": 64.5,
+    "IC": 67.8,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 37.4,
+    "CNCI": 57.6,
+    "IC": 70.1,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Victoria",
+    "country": "Canada",
+    "World_Rank": "13",
+    "QI_PUB": 32.1,
+    "CNCI": 64.4,
+    "IC": 79.9,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "14",
+    "QI_PUB": 27.6,
+    "CNCI": 69.6,
+    "IC": 76.4,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "University of Windsor",
+    "country": "Canada",
+    "World_Rank": "15",
+    "QI_PUB": 28.8,
+    "CNCI": 68.3,
+    "IC": 58.6,
+    "TOP": 0,
+    "AWARD": 0
+},{
+    "institution": "Simon Fraser University",
+    "country": "Canada",
+    "World_Rank": "16",
+    "QI_PUB": 24.5,
+    "CNCI": 71.3,
+    "IC": 71.1,
+    "TOP": 0,
+    "AWARD": 0
+}],"WATER": [{
+    "institution": "University of Saskatchewan",
+    "country": "Canada",
+    "World_Rank": "1",
+    "QI_PUB": 70.9,
+    "CNCI": 80.1,
+    "IC": 80.6,
+    "TOP": 74.2,
+    "AWARD": 0.0
+},{
+    "institution": "University of Waterloo",
+    "country": "Canada",
+    "World_Rank": "2",
+    "QI_PUB": 68.9,
+    "CNCI": 66.6,
+    "IC": 73.4,
+    "TOP": 67.6,
+    "AWARD": 0.0
+},{
+    "institution": "University of British Columbia",
+    "country": "Canada",
+    "World_Rank": "3",
+    "QI_PUB": 67.1,
+    "CNCI": 65.0,
+    "IC": 76.0,
+    "TOP": 59.0,
+    "AWARD": 0.0
+},{
+    "institution": "McGill University",
+    "country": "Canada",
+    "World_Rank": "4",
+    "QI_PUB": 52.5,
+    "CNCI": 72.2,
+    "IC": 84.9,
+    "TOP": 51.1,
+    "AWARD": 0.0
+},{
+    "institution": "McMaster University",
+    "country": "Canada",
+    "World_Rank": "5",
+    "QI_PUB": 53.0,
+    "CNCI": 70.8,
+    "IC": 75.5,
+    "TOP": 51.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of Guelph",
+    "country": "Canada",
+    "World_Rank": "6",
+    "QI_PUB": 50.1,
+    "CNCI": 61.9,
+    "IC": 64.9,
+    "TOP": 57.7,
+    "AWARD": 0.0
+},{
+    "institution": "The University of Calgary",
+    "country": "Canada",
+    "World_Rank": "7",
+    "QI_PUB": 43.8,
+    "CNCI": 77.2,
+    "IC": 64.8,
+    "TOP": 43.4,
+    "AWARD": 0.0
+},{
+    "institution": "Laval University",
+    "country": "Canada",
+    "World_Rank": "8",
+    "QI_PUB": 49.1,
+    "CNCI": 61.2,
+    "IC": 75.1,
+    "TOP": 47.4,
+    "AWARD": 0.0
+},{
+    "institution": "University of Victoria",
+    "country": "Canada",
+    "World_Rank": "9",
+    "QI_PUB": 39.4,
+    "CNCI": 80.5,
+    "IC": 73.4,
+    "TOP": 38.1,
+    "AWARD": 0.0
+},{
+    "institution": "University of Alberta",
+    "country": "Canada",
+    "World_Rank": "10",
+    "QI_PUB": 52.1,
+    "CNCI": 62.1,
+    "IC": 78.3,
+    "TOP": 40.8,
+    "AWARD": 0.0
+},{
+    "institution": "University of Regina",
+    "country": "Canada",
+    "World_Rank": "11",
+    "QI_PUB": 42.4,
+    "CNCI": 67.1,
+    "IC": 91.4,
+    "TOP": 36.1,
+    "AWARD": 0.0
+},{
+    "institution": "Western University",
+    "country": "Canada",
+    "World_Rank": "12",
+    "QI_PUB": 37.5,
+    "CNCI": 66.1,
+    "IC": 68.3,
+    "TOP": 37.1,
+    "AWARD": 0.0
+}]}
