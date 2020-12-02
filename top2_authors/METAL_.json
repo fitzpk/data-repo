@@ -9,8 +9,8 @@
     "total_cites": 5972,
     "hindex": 42,
     "hmindex": 29.81,
-    "nps": 27,
-    "ncs": 1367,
+    "distinct_papers": 3990,
+    "ratio_cp": 1.5,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 1
 },{
@@ -24,8 +24,8 @@
     "total_cites": 19572,
     "hindex": 69,
     "hmindex": 33.91,
-    "nps": 21,
-    "ncs": 89,
+    "distinct_papers": 8229,
+    "ratio_cp": 2.38,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 2
 },{
@@ -39,8 +39,8 @@
     "total_cites": 7764,
     "hindex": 43,
     "hmindex": 30.98,
-    "nps": 14,
-    "ncs": 253,
+    "distinct_papers": 5772,
+    "ratio_cp": 1.35,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 3
 },{
@@ -54,8 +54,8 @@
     "total_cites": 4700,
     "hindex": 34,
     "hmindex": 26.82,
-    "nps": 46,
-    "ncs": 1063,
+    "distinct_papers": 3281,
+    "ratio_cp": 1.43,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 4
 },{
@@ -69,8 +69,8 @@
     "total_cites": 6585,
     "hindex": 45,
     "hmindex": 25.88,
-    "nps": 17,
-    "ncs": 287,
+    "distinct_papers": 3910,
+    "ratio_cp": 1.68,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 5
 },{
@@ -84,8 +84,8 @@
     "total_cites": 4854,
     "hindex": 38,
     "hmindex": 25.03,
-    "nps": 8,
-    "ncs": 350,
+    "distinct_papers": 3548,
+    "ratio_cp": 1.37,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 6
 },{
@@ -99,8 +99,8 @@
     "total_cites": 4229,
     "hindex": 36,
     "hmindex": 19.57,
-    "nps": 16,
-    "ncs": 397,
+    "distinct_papers": 3026,
+    "ratio_cp": 1.4,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 7
 },{
@@ -114,8 +114,8 @@
     "total_cites": 4242,
     "hindex": 33,
     "hmindex": 24.03,
-    "nps": 50,
-    "ncs": 612,
+    "distinct_papers": 2753,
+    "ratio_cp": 1.54,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 8
 },{
@@ -129,8 +129,8 @@
     "total_cites": 5840,
     "hindex": 40,
     "hmindex": 26.68,
-    "nps": 22,
-    "ncs": 88,
+    "distinct_papers": 4264,
+    "ratio_cp": 1.37,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 9
 },{
@@ -144,8 +144,8 @@
     "total_cites": 6097,
     "hindex": 36,
     "hmindex": 17.91,
-    "nps": 13,
-    "ncs": 220,
+    "distinct_papers": 3865,
+    "ratio_cp": 1.58,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 10
 },{
@@ -159,8 +159,8 @@
     "total_cites": 5365,
     "hindex": 34,
     "hmindex": 21.06,
-    "nps": 7,
-    "ncs": 279,
+    "distinct_papers": 4639,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 11
 },{
@@ -174,8 +174,8 @@
     "total_cites": 6242,
     "hindex": 38,
     "hmindex": 25.83,
-    "nps": 10,
-    "ncs": 111,
+    "distinct_papers": 3926,
+    "ratio_cp": 1.59,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 12
 },{
@@ -189,8 +189,8 @@
     "total_cites": 4606,
     "hindex": 39,
     "hmindex": 23.27,
-    "nps": 23,
-    "ncs": 323,
+    "distinct_papers": 3726,
+    "ratio_cp": 1.24,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 13
 },{
@@ -204,8 +204,8 @@
     "total_cites": 3498,
     "hindex": 31,
     "hmindex": 22.71,
-    "nps": 23,
-    "ncs": 390,
+    "distinct_papers": 2848,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 14
 },{
@@ -219,8 +219,8 @@
     "total_cites": 2228,
     "hindex": 26,
     "hmindex": 22.2,
-    "nps": 36,
-    "ncs": 974,
+    "distinct_papers": 1746,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 15
 },{
@@ -234,8 +234,8 @@
     "total_cites": 6755,
     "hindex": 41,
     "hmindex": 20.94,
-    "nps": 2,
-    "ncs": 34,
+    "distinct_papers": 5256,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 16
 },{
@@ -249,8 +249,8 @@
     "total_cites": 3591,
     "hindex": 33,
     "hmindex": 21.95,
-    "nps": 26,
-    "ncs": 282,
+    "distinct_papers": 2288,
+    "ratio_cp": 1.57,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 17
 },{
@@ -264,8 +264,8 @@
     "total_cites": 9302,
     "hindex": 48,
     "hmindex": 30.77,
-    "nps": 6,
-    "ncs": 7,
+    "distinct_papers": 6967,
+    "ratio_cp": 1.34,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 18
 },{
@@ -279,8 +279,8 @@
     "total_cites": 3012,
     "hindex": 17,
     "hmindex": 12.17,
-    "nps": 20,
-    "ncs": 1835,
+    "distinct_papers": 2494,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 19
 },{
@@ -294,8 +294,8 @@
     "total_cites": 4866,
     "hindex": 41,
     "hmindex": 23.8,
-    "nps": 7,
-    "ncs": 135,
+    "distinct_papers": 3187,
+    "ratio_cp": 1.53,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 20
 },{
@@ -309,8 +309,8 @@
     "total_cites": 2668,
     "hindex": 28,
     "hmindex": 15.27,
-    "nps": 11,
-    "ncs": 1049,
+    "distinct_papers": 1796,
+    "ratio_cp": 1.49,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 21
 },{
@@ -324,8 +324,8 @@
     "total_cites": 2155,
     "hindex": 20,
     "hmindex": 18.17,
-    "nps": 46,
-    "ncs": 1226,
+    "distinct_papers": 1888,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 22
 },{
@@ -339,8 +339,8 @@
     "total_cites": 3629,
     "hindex": 30,
     "hmindex": 14.83,
-    "nps": 13,
-    "ncs": 303,
+    "distinct_papers": 3002,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 23
 },{
@@ -354,8 +354,8 @@
     "total_cites": 3930,
     "hindex": 25,
     "hmindex": 16.65,
-    "nps": 25,
-    "ncs": 202,
+    "distinct_papers": 3014,
+    "ratio_cp": 1.3,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 24
 },{
@@ -369,8 +369,8 @@
     "total_cites": 4091,
     "hindex": 28,
     "hmindex": 20.09,
-    "nps": 56,
-    "ncs": 163,
+    "distinct_papers": 2991,
+    "ratio_cp": 1.37,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 25
 },{
@@ -384,8 +384,8 @@
     "total_cites": 2589,
     "hindex": 29,
     "hmindex": 17.94,
-    "nps": 14,
-    "ncs": 290,
+    "distinct_papers": 1896,
+    "ratio_cp": 1.37,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 26
 },{
@@ -399,8 +399,8 @@
     "total_cites": 2142,
     "hindex": 25,
     "hmindex": 15.68,
-    "nps": 10,
-    "ncs": 349,
+    "distinct_papers": 1680,
+    "ratio_cp": 1.27,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 27
 },{
@@ -414,8 +414,8 @@
     "total_cites": 4397,
     "hindex": 34,
     "hmindex": 22.07,
-    "nps": 12,
-    "ncs": 115,
+    "distinct_papers": 3318,
+    "ratio_cp": 1.33,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 28
 },{
@@ -429,8 +429,8 @@
     "total_cites": 3165,
     "hindex": 27,
     "hmindex": 18.48,
-    "nps": 17,
-    "ncs": 203,
+    "distinct_papers": 2453,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 29
 },{
@@ -444,8 +444,8 @@
     "total_cites": 3644,
     "hindex": 31,
     "hmindex": 19.87,
-    "nps": 9,
-    "ncs": 111,
+    "distinct_papers": 2979,
+    "ratio_cp": 1.22,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 30
 },{
@@ -459,8 +459,8 @@
     "total_cites": 1692,
     "hindex": 25,
     "hmindex": 18.63,
-    "nps": 22,
-    "ncs": 650,
+    "distinct_papers": 1303,
+    "ratio_cp": 1.3,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 31
 },{
@@ -474,8 +474,8 @@
     "total_cites": 5301,
     "hindex": 37,
     "hmindex": 20.99,
-    "nps": 6,
-    "ncs": 21,
+    "distinct_papers": 4367,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 32
 },{
@@ -489,8 +489,8 @@
     "total_cites": 2920,
     "hindex": 29,
     "hmindex": 20.57,
-    "nps": 20,
-    "ncs": 182,
+    "distinct_papers": 1915,
+    "ratio_cp": 1.52,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 33
 },{
@@ -504,8 +504,8 @@
     "total_cites": 5033,
     "hindex": 37,
     "hmindex": 17.03,
-    "nps": 1,
-    "ncs": 85,
+    "distinct_papers": 3511,
+    "ratio_cp": 1.43,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 34
 },{
@@ -519,8 +519,8 @@
     "total_cites": 3879,
     "hindex": 28,
     "hmindex": 15.68,
-    "nps": 4,
-    "ncs": 185,
+    "distinct_papers": 3431,
+    "ratio_cp": 1.13,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 35
 },{
@@ -534,8 +534,8 @@
     "total_cites": 2509,
     "hindex": 26,
     "hmindex": 16.77,
-    "nps": 3,
-    "ncs": 94,
+    "distinct_papers": 1764,
+    "ratio_cp": 1.42,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 36
 },{
@@ -549,8 +549,8 @@
     "total_cites": 2639,
     "hindex": 22,
     "hmindex": 10.98,
-    "nps": 7,
-    "ncs": 344,
+    "distinct_papers": 2277,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 37
 },{
@@ -564,8 +564,8 @@
     "total_cites": 3299,
     "hindex": 29,
     "hmindex": 18.65,
-    "nps": 2,
-    "ncs": 37,
+    "distinct_papers": 2733,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 38
 },{
@@ -579,8 +579,8 @@
     "total_cites": 1548,
     "hindex": 20,
     "hmindex": 16.67,
-    "nps": 14,
-    "ncs": 573,
+    "distinct_papers": 1348,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 39
 },{
@@ -594,8 +594,8 @@
     "total_cites": 1667,
     "hindex": 24,
     "hmindex": 16.7,
-    "nps": 17,
-    "ncs": 323,
+    "distinct_papers": 1368,
+    "ratio_cp": 1.22,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 40
 },{
@@ -609,8 +609,8 @@
     "total_cites": 3307,
     "hindex": 26,
     "hmindex": 17.56,
-    "nps": 7,
-    "ncs": 178,
+    "distinct_papers": 2724,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 41
 },{
@@ -624,8 +624,8 @@
     "total_cites": 3640,
     "hindex": 31,
     "hmindex": 17.94,
-    "nps": 11,
-    "ncs": 59,
+    "distinct_papers": 2626,
+    "ratio_cp": 1.39,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 42
 },{
@@ -639,8 +639,8 @@
     "total_cites": 2957,
     "hindex": 22,
     "hmindex": 14.24,
-    "nps": 24,
-    "ncs": 85,
+    "distinct_papers": 2493,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 43
 },{
@@ -654,8 +654,8 @@
     "total_cites": 1645,
     "hindex": 19,
     "hmindex": 12.0,
-    "nps": 16,
-    "ncs": 398,
+    "distinct_papers": 1232,
+    "ratio_cp": 1.34,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 44
 },{
@@ -669,8 +669,8 @@
     "total_cites": 1268,
     "hindex": 21,
     "hmindex": 13.67,
-    "nps": 35,
-    "ncs": 457,
+    "distinct_papers": 1115,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 45
 },{
@@ -684,8 +684,8 @@
     "total_cites": 2561,
     "hindex": 27,
     "hmindex": 14.88,
-    "nps": 10,
-    "ncs": 101,
+    "distinct_papers": 2318,
+    "ratio_cp": 1.1,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 46
 },{
@@ -699,8 +699,8 @@
     "total_cites": 3103,
     "hindex": 30,
     "hmindex": 17.95,
-    "nps": 9,
-    "ncs": 60,
+    "distinct_papers": 2616,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 47
 },{
@@ -714,8 +714,8 @@
     "total_cites": 1936,
     "hindex": 15,
     "hmindex": 12.0,
-    "nps": 15,
-    "ncs": 583,
+    "distinct_papers": 1579,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 48
 },{
@@ -729,8 +729,8 @@
     "total_cites": 2386,
     "hindex": 25,
     "hmindex": 12.85,
-    "nps": 4,
-    "ncs": 219,
+    "distinct_papers": 1899,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 49
 },{
@@ -744,8 +744,8 @@
     "total_cites": 1231,
     "hindex": 18,
     "hmindex": 15.03,
-    "nps": 14,
-    "ncs": 449,
+    "distinct_papers": 821,
+    "ratio_cp": 1.5,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 50
 },{
@@ -759,8 +759,8 @@
     "total_cites": 2914,
     "hindex": 25,
     "hmindex": 13.89,
-    "nps": 6,
-    "ncs": 208,
+    "distinct_papers": 2630,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 51
 },{
@@ -774,8 +774,8 @@
     "total_cites": 1781,
     "hindex": 23,
     "hmindex": 16.45,
-    "nps": 18,
-    "ncs": 197,
+    "distinct_papers": 1408,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 52
 },{
@@ -789,8 +789,8 @@
     "total_cites": 1371,
     "hindex": 21,
     "hmindex": 15.37,
-    "nps": 20,
-    "ncs": 320,
+    "distinct_papers": 1139,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 53
 },{
@@ -804,8 +804,8 @@
     "total_cites": 1837,
     "hindex": 23,
     "hmindex": 18.17,
-    "nps": 12,
-    "ncs": 140,
+    "distinct_papers": 1107,
+    "ratio_cp": 1.66,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 54
 },{
@@ -819,8 +819,8 @@
     "total_cites": 2649,
     "hindex": 27,
     "hmindex": 15.95,
-    "nps": 5,
-    "ncs": 142,
+    "distinct_papers": 1568,
+    "ratio_cp": 1.69,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 55
 },{
@@ -834,8 +834,8 @@
     "total_cites": 1359,
     "hindex": 20,
     "hmindex": 14.92,
-    "nps": 25,
-    "ncs": 432,
+    "distinct_papers": 1022,
+    "ratio_cp": 1.33,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 56
 },{
@@ -849,8 +849,8 @@
     "total_cites": 2761,
     "hindex": 28,
     "hmindex": 17.45,
-    "nps": 11,
-    "ncs": 71,
+    "distinct_papers": 2162,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 57
 },{
@@ -864,8 +864,8 @@
     "total_cites": 2676,
     "hindex": 29,
     "hmindex": 15.52,
-    "nps": 6,
-    "ncs": 48,
+    "distinct_papers": 2353,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 58
 },{
@@ -879,8 +879,8 @@
     "total_cites": 2134,
     "hindex": 24,
     "hmindex": 15.75,
-    "nps": 8,
-    "ncs": 118,
+    "distinct_papers": 1874,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 59
 },{
@@ -894,8 +894,8 @@
     "total_cites": 3480,
     "hindex": 30,
     "hmindex": 18.87,
-    "nps": 18,
-    "ncs": 35,
+    "distinct_papers": 2400,
+    "ratio_cp": 1.45,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 60
 },{
@@ -909,8 +909,8 @@
     "total_cites": 3256,
     "hindex": 31,
     "hmindex": 16.22,
-    "nps": 4,
-    "ncs": 38,
+    "distinct_papers": 2237,
+    "ratio_cp": 1.46,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 61
 },{
@@ -924,8 +924,8 @@
     "total_cites": 2596,
     "hindex": 26,
     "hmindex": 13.97,
-    "nps": 5,
-    "ncs": 62,
+    "distinct_papers": 2167,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 62
 },{
@@ -939,8 +939,8 @@
     "total_cites": 1697,
     "hindex": 23,
     "hmindex": 13.75,
-    "nps": 12,
-    "ncs": 72,
+    "distinct_papers": 1014,
+    "ratio_cp": 1.67,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 63
 },{
@@ -954,8 +954,8 @@
     "total_cites": 4569,
     "hindex": 25,
     "hmindex": 15.57,
-    "nps": 18,
-    "ncs": 53,
+    "distinct_papers": 3932,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 64
 },{
@@ -969,8 +969,8 @@
     "total_cites": 1817,
     "hindex": 17,
     "hmindex": 9.59,
-    "nps": 8,
-    "ncs": 343,
+    "distinct_papers": 1295,
+    "ratio_cp": 1.4,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 65
 },{
@@ -984,8 +984,8 @@
     "total_cites": 1822,
     "hindex": 20,
     "hmindex": 12.86,
-    "nps": 8,
-    "ncs": 210,
+    "distinct_papers": 1464,
+    "ratio_cp": 1.24,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 66
 },{
@@ -999,8 +999,8 @@
     "total_cites": 2825,
     "hindex": 30,
     "hmindex": 16.77,
-    "nps": 6,
-    "ncs": 75,
+    "distinct_papers": 1993,
+    "ratio_cp": 1.42,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 67
 },{
@@ -1014,8 +1014,8 @@
     "total_cites": 1542,
     "hindex": 22,
     "hmindex": 12.52,
-    "nps": 2,
-    "ncs": 184,
+    "distinct_papers": 1185,
+    "ratio_cp": 1.3,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 68
 },{
@@ -1029,8 +1029,8 @@
     "total_cites": 2038,
     "hindex": 25,
     "hmindex": 16.26,
-    "nps": 3,
-    "ncs": 67,
+    "distinct_papers": 1445,
+    "ratio_cp": 1.41,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 69
 },{
@@ -1044,8 +1044,8 @@
     "total_cites": 1614,
     "hindex": 27,
     "hmindex": 13.83,
-    "nps": 1,
-    "ncs": 93,
+    "distinct_papers": 989,
+    "ratio_cp": 1.63,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 70
 },{
@@ -1059,8 +1059,8 @@
     "total_cites": 1891,
     "hindex": 24,
     "hmindex": 13.47,
-    "nps": 8,
-    "ncs": 70,
+    "distinct_papers": 1422,
+    "ratio_cp": 1.33,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 71
 },{
@@ -1074,8 +1074,8 @@
     "total_cites": 2101,
     "hindex": 24,
     "hmindex": 16.57,
-    "nps": 14,
-    "ncs": 64,
+    "distinct_papers": 1672,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 72
 },{
@@ -1089,8 +1089,8 @@
     "total_cites": 2838,
     "hindex": 20,
     "hmindex": 9.29,
-    "nps": 2,
-    "ncs": 168,
+    "distinct_papers": 2594,
+    "ratio_cp": 1.09,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 73
 },{
@@ -1104,8 +1104,8 @@
     "total_cites": 2245,
     "hindex": 25,
     "hmindex": 16.93,
-    "nps": 8,
-    "ncs": 53,
+    "distinct_papers": 1429,
+    "ratio_cp": 1.57,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 74
 },{
@@ -1119,8 +1119,8 @@
     "total_cites": 1658,
     "hindex": 19,
     "hmindex": 10.75,
-    "nps": 8,
-    "ncs": 217,
+    "distinct_papers": 1348,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 75
 },{
@@ -1134,8 +1134,8 @@
     "total_cites": 1160,
     "hindex": 15,
     "hmindex": 10.08,
-    "nps": 6,
-    "ncs": 452,
+    "distinct_papers": 846,
+    "ratio_cp": 1.37,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 76
 },{
@@ -1149,8 +1149,8 @@
     "total_cites": 2402,
     "hindex": 27,
     "hmindex": 12.52,
-    "nps": 3,
-    "ncs": 78,
+    "distinct_papers": 1856,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 77
 },{
@@ -1164,8 +1164,8 @@
     "total_cites": 1189,
     "hindex": 19,
     "hmindex": 9.42,
-    "nps": 9,
-    "ncs": 351,
+    "distinct_papers": 1061,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 78
 },{
@@ -1179,8 +1179,8 @@
     "total_cites": 1614,
     "hindex": 14,
     "hmindex": 10.8,
-    "nps": 22,
-    "ncs": 446,
+    "distinct_papers": 1355,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 79
 },{
@@ -1194,8 +1194,8 @@
     "total_cites": 809,
     "hindex": 15,
     "hmindex": 11.96,
-    "nps": 37,
-    "ncs": 517,
+    "distinct_papers": 673,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 80
 },{
@@ -1209,8 +1209,8 @@
     "total_cites": 1378,
     "hindex": 19,
     "hmindex": 12.83,
-    "nps": 37,
-    "ncs": 220,
+    "distinct_papers": 1086,
+    "ratio_cp": 1.27,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 81
 },{
@@ -1224,8 +1224,8 @@
     "total_cites": 5302,
     "hindex": 39,
     "hmindex": 25.88,
-    "nps": 3,
-    "ncs": 1,
+    "distinct_papers": 4201,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 82
 },{
@@ -1239,8 +1239,8 @@
     "total_cites": 1550,
     "hindex": 20,
     "hmindex": 10.78,
-    "nps": 1,
-    "ncs": 144,
+    "distinct_papers": 1215,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 83
 },{
@@ -1254,8 +1254,8 @@
     "total_cites": 1368,
     "hindex": 19,
     "hmindex": 11.57,
-    "nps": 5,
-    "ncs": 119,
+    "distinct_papers": 1225,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 84
 },{
@@ -1269,8 +1269,8 @@
     "total_cites": 1042,
     "hindex": 20,
     "hmindex": 12.48,
-    "nps": 7,
-    "ncs": 220,
+    "distinct_papers": 743,
+    "ratio_cp": 1.4,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 85
 },{
@@ -1284,8 +1284,8 @@
     "total_cites": 1369,
     "hindex": 9,
     "hmindex": 6.67,
-    "nps": 13,
-    "ncs": 888,
+    "distinct_papers": 1350,
+    "ratio_cp": 1.01,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 86
 },{
@@ -1299,8 +1299,8 @@
     "total_cites": 4285,
     "hindex": 31,
     "hmindex": 17.9,
-    "nps": 1,
-    "ncs": 8,
+    "distinct_papers": 3097,
+    "ratio_cp": 1.38,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 87
 },{
@@ -1314,8 +1314,8 @@
     "total_cites": 1545,
     "hindex": 23,
     "hmindex": 14.28,
-    "nps": 4,
-    "ncs": 124,
+    "distinct_papers": 1071,
+    "ratio_cp": 1.44,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 88
 },{
@@ -1329,8 +1329,8 @@
     "total_cites": 1643,
     "hindex": 23,
     "hmindex": 12.42,
-    "nps": 5,
-    "ncs": 87,
+    "distinct_papers": 1391,
+    "ratio_cp": 1.18,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 89
 },{
@@ -1344,8 +1344,8 @@
     "total_cites": 2193,
     "hindex": 26,
     "hmindex": 14.78,
-    "nps": 13,
-    "ncs": 42,
+    "distinct_papers": 1451,
+    "ratio_cp": 1.51,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 90
 },{
@@ -1359,8 +1359,8 @@
     "total_cites": 2135,
     "hindex": 20,
     "hmindex": 11.79,
-    "nps": 9,
-    "ncs": 126,
+    "distinct_papers": 1835,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 91
 },{
@@ -1374,8 +1374,8 @@
     "total_cites": 2722,
     "hindex": 23,
     "hmindex": 11.94,
-    "nps": 6,
-    "ncs": 52,
+    "distinct_papers": 2320,
+    "ratio_cp": 1.17,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 92
 },{
@@ -1389,8 +1389,8 @@
     "total_cites": 5358,
     "hindex": 43,
     "hmindex": 22.56,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 3806,
+    "ratio_cp": 1.41,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 93
 },{
@@ -1404,8 +1404,8 @@
     "total_cites": 3163,
     "hindex": 28,
     "hmindex": 18.93,
-    "nps": 2,
-    "ncs": 4,
+    "distinct_papers": 1794,
+    "ratio_cp": 1.76,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 94
 },{
@@ -1419,8 +1419,8 @@
     "total_cites": 1995,
     "hindex": 20,
     "hmindex": 7.85,
-    "nps": 3,
-    "ncs": 38,
+    "distinct_papers": 1757,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 95
 },{
@@ -1434,8 +1434,8 @@
     "total_cites": 3006,
     "hindex": 31,
     "hmindex": 22.0,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1760,
+    "ratio_cp": 1.71,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 96
 },{
@@ -1449,8 +1449,8 @@
     "total_cites": 1503,
     "hindex": 22,
     "hmindex": 12.9,
-    "nps": 8,
-    "ncs": 72,
+    "distinct_papers": 1154,
+    "ratio_cp": 1.3,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 97
 },{
@@ -1464,8 +1464,8 @@
     "total_cites": 1612,
     "hindex": 19,
     "hmindex": 11.68,
-    "nps": 1,
-    "ncs": 106,
+    "distinct_papers": 1125,
+    "ratio_cp": 1.43,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 98
 },{
@@ -1479,8 +1479,8 @@
     "total_cites": 1047,
     "hindex": 13,
     "hmindex": 8.32,
-    "nps": 11,
-    "ncs": 684,
+    "distinct_papers": 942,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 99
 },{
@@ -1494,8 +1494,8 @@
     "total_cites": 871,
     "hindex": 17,
     "hmindex": 12.75,
-    "nps": 13,
-    "ncs": 249,
+    "distinct_papers": 688,
+    "ratio_cp": 1.27,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 100
 },{
@@ -1509,8 +1509,8 @@
     "total_cites": 1191,
     "hindex": 16,
     "hmindex": 9.98,
-    "nps": 15,
-    "ncs": 173,
+    "distinct_papers": 1068,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 101
 },{
@@ -1524,8 +1524,8 @@
     "total_cites": 1230,
     "hindex": 20,
     "hmindex": 12.32,
-    "nps": 5,
-    "ncs": 134,
+    "distinct_papers": 1108,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 102
 },{
@@ -1539,8 +1539,8 @@
     "total_cites": 2212,
     "hindex": 24,
     "hmindex": 11.09,
-    "nps": 1,
-    "ncs": 18,
+    "distinct_papers": 1909,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 103
 },{
@@ -1554,8 +1554,8 @@
     "total_cites": 953,
     "hindex": 15,
     "hmindex": 10.0,
-    "nps": 27,
-    "ncs": 314,
+    "distinct_papers": 859,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 104
 },{
@@ -1569,8 +1569,8 @@
     "total_cites": 1091,
     "hindex": 16,
     "hmindex": 9.03,
-    "nps": 8,
-    "ncs": 328,
+    "distinct_papers": 934,
+    "ratio_cp": 1.17,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 105
 },{
@@ -1584,8 +1584,8 @@
     "total_cites": 3411,
     "hindex": 27,
     "hmindex": 12.79,
-    "nps": 2,
-    "ncs": 16,
+    "distinct_papers": 2394,
+    "ratio_cp": 1.42,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 106
 },{
@@ -1599,8 +1599,8 @@
     "total_cites": 1960,
     "hindex": 23,
     "hmindex": 12.88,
-    "nps": 2,
-    "ncs": 42,
+    "distinct_papers": 1711,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 107
 },{
@@ -1614,8 +1614,8 @@
     "total_cites": 1044,
     "hindex": 19,
     "hmindex": 11.33,
-    "nps": 8,
-    "ncs": 148,
+    "distinct_papers": 674,
+    "ratio_cp": 1.55,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 108
 },{
@@ -1629,8 +1629,8 @@
     "total_cites": 1075,
     "hindex": 13,
     "hmindex": 10.58,
-    "nps": 25,
-    "ncs": 324,
+    "distinct_papers": 954,
+    "ratio_cp": 1.13,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 109
 },{
@@ -1644,8 +1644,8 @@
     "total_cites": 1143,
     "hindex": 20,
     "hmindex": 11.42,
-    "nps": 13,
-    "ncs": 65,
+    "distinct_papers": 655,
+    "ratio_cp": 1.75,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 110
 },{
@@ -1659,8 +1659,8 @@
     "total_cites": 3701,
     "hindex": 22,
     "hmindex": 13.95,
-    "nps": 2,
-    "ncs": 40,
+    "distinct_papers": 3050,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 111
 },{
@@ -1674,8 +1674,8 @@
     "total_cites": 2127,
     "hindex": 24,
     "hmindex": 14.99,
-    "nps": 9,
-    "ncs": 14,
+    "distinct_papers": 1674,
+    "ratio_cp": 1.27,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 112
 },{
@@ -1689,8 +1689,8 @@
     "total_cites": 1173,
     "hindex": 19,
     "hmindex": 12.92,
-    "nps": 14,
-    "ncs": 107,
+    "distinct_papers": 989,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 113
 },{
@@ -1704,8 +1704,8 @@
     "total_cites": 1082,
     "hindex": 14,
     "hmindex": 7.17,
-    "nps": 2,
-    "ncs": 330,
+    "distinct_papers": 1051,
+    "ratio_cp": 1.03,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 114
 },{
@@ -1719,8 +1719,8 @@
     "total_cites": 1488,
     "hindex": 25,
     "hmindex": 13.92,
-    "nps": 3,
-    "ncs": 59,
+    "distinct_papers": 1007,
+    "ratio_cp": 1.48,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 115
 },{
@@ -1734,8 +1734,8 @@
     "total_cites": 6493,
     "hindex": 42,
     "hmindex": 19.9,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 5339,
+    "ratio_cp": 1.22,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 116
 },{
@@ -1749,8 +1749,8 @@
     "total_cites": 1032,
     "hindex": 18,
     "hmindex": 12.33,
-    "nps": 18,
-    "ncs": 177,
+    "distinct_papers": 864,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 117
 },{
@@ -1764,8 +1764,8 @@
     "total_cites": 1521,
     "hindex": 23,
     "hmindex": 15.32,
-    "nps": 9,
-    "ncs": 29,
+    "distinct_papers": 1090,
+    "ratio_cp": 1.4,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 118
 },{
@@ -1779,8 +1779,8 @@
     "total_cites": 1744,
     "hindex": 23,
     "hmindex": 14.23,
-    "nps": 5,
-    "ncs": 32,
+    "distinct_papers": 1349,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 119
 },{
@@ -1794,8 +1794,8 @@
     "total_cites": 1282,
     "hindex": 22,
     "hmindex": 12.85,
-    "nps": 13,
-    "ncs": 58,
+    "distinct_papers": 1060,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 120
 },{
@@ -1809,8 +1809,8 @@
     "total_cites": 2221,
     "hindex": 26,
     "hmindex": 15.35,
-    "nps": 2,
-    "ncs": 14,
+    "distinct_papers": 1720,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 121
 },{
@@ -1824,8 +1824,8 @@
     "total_cites": 1423,
     "hindex": 21,
     "hmindex": 12.41,
-    "nps": 1,
-    "ncs": 38,
+    "distinct_papers": 1025,
+    "ratio_cp": 1.39,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 122
 },{
@@ -1839,8 +1839,8 @@
     "total_cites": 1543,
     "hindex": 19,
     "hmindex": 11.53,
-    "nps": 6,
-    "ncs": 58,
+    "distinct_papers": 1242,
+    "ratio_cp": 1.24,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 123
 },{
@@ -1854,8 +1854,8 @@
     "total_cites": 1301,
     "hindex": 17,
     "hmindex": 12.88,
-    "nps": 9,
-    "ncs": 66,
+    "distinct_papers": 1090,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 124
 },{
@@ -1869,8 +1869,8 @@
     "total_cites": 997,
     "hindex": 19,
     "hmindex": 11.95,
-    "nps": 10,
-    "ncs": 96,
+    "distinct_papers": 664,
+    "ratio_cp": 1.5,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 125
 },{
@@ -1884,8 +1884,8 @@
     "total_cites": 712,
     "hindex": 15,
     "hmindex": 10.58,
-    "nps": 21,
-    "ncs": 274,
+    "distinct_papers": 574,
+    "ratio_cp": 1.24,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 126
 },{
@@ -1899,8 +1899,8 @@
     "total_cites": 1123,
     "hindex": 18,
     "hmindex": 10.72,
-    "nps": 6,
-    "ncs": 126,
+    "distinct_papers": 847,
+    "ratio_cp": 1.33,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 127
 },{
@@ -1914,8 +1914,8 @@
     "total_cites": 2086,
     "hindex": 25,
     "hmindex": 12.16,
-    "nps": 3,
-    "ncs": 5,
+    "distinct_papers": 1830,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 128
 },{
@@ -1929,8 +1929,8 @@
     "total_cites": 835,
     "hindex": 16,
     "hmindex": 11.01,
-    "nps": 17,
-    "ncs": 232,
+    "distinct_papers": 615,
+    "ratio_cp": 1.36,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 129
 },{
@@ -1944,8 +1944,8 @@
     "total_cites": 2173,
     "hindex": 24,
     "hmindex": 14.82,
-    "nps": 3,
-    "ncs": 23,
+    "distinct_papers": 1621,
+    "ratio_cp": 1.34,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 130
 },{
@@ -1959,8 +1959,8 @@
     "total_cites": 715,
     "hindex": 16,
     "hmindex": 11.75,
-    "nps": 12,
-    "ncs": 275,
+    "distinct_papers": 560,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 131
 },{
@@ -1974,8 +1974,8 @@
     "total_cites": 1136,
     "hindex": 19,
     "hmindex": 11.86,
-    "nps": 1,
-    "ncs": 38,
+    "distinct_papers": 739,
+    "ratio_cp": 1.54,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 132
 },{
@@ -1989,8 +1989,8 @@
     "total_cites": 1072,
     "hindex": 17,
     "hmindex": 12.67,
-    "nps": 11,
-    "ncs": 86,
+    "distinct_papers": 853,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 133
 },{
@@ -2004,8 +2004,8 @@
     "total_cites": 1061,
     "hindex": 17,
     "hmindex": 12.62,
-    "nps": 9,
-    "ncs": 134,
+    "distinct_papers": 730,
+    "ratio_cp": 1.45,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 134
 },{
@@ -2019,8 +2019,8 @@
     "total_cites": 1235,
     "hindex": 19,
     "hmindex": 11.35,
-    "nps": 4,
-    "ncs": 57,
+    "distinct_papers": 937,
+    "ratio_cp": 1.32,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 135
 },{
@@ -2034,8 +2034,8 @@
     "total_cites": 1367,
     "hindex": 19,
     "hmindex": 9.85,
-    "nps": 1,
-    "ncs": 20,
+    "distinct_papers": 1264,
+    "ratio_cp": 1.08,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 136
 },{
@@ -2049,8 +2049,8 @@
     "total_cites": 905,
     "hindex": 13,
     "hmindex": 9.4,
-    "nps": 29,
-    "ncs": 210,
+    "distinct_papers": 806,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 137
 },{
@@ -2064,8 +2064,8 @@
     "total_cites": 1137,
     "hindex": 14,
     "hmindex": 7.95,
-    "nps": 2,
-    "ncs": 107,
+    "distinct_papers": 815,
+    "ratio_cp": 1.4,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 138
 },{
@@ -2079,8 +2079,8 @@
     "total_cites": 1919,
     "hindex": 26,
     "hmindex": 12.48,
-    "nps": 3,
-    "ncs": 7,
+    "distinct_papers": 1386,
+    "ratio_cp": 1.38,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 139
 },{
@@ -2094,8 +2094,8 @@
     "total_cites": 1033,
     "hindex": 10,
     "hmindex": 7.67,
-    "nps": 71,
-    "ncs": 244,
+    "distinct_papers": 871,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 140
 },{
@@ -2109,8 +2109,8 @@
     "total_cites": 736,
     "hindex": 13,
     "hmindex": 9.17,
-    "nps": 15,
-    "ncs": 368,
+    "distinct_papers": 660,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 141
 },{
@@ -2124,8 +2124,8 @@
     "total_cites": 2528,
     "hindex": 27,
     "hmindex": 14.69,
-    "nps": 7,
-    "ncs": 2,
+    "distinct_papers": 2055,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 142
 },{
@@ -2139,8 +2139,8 @@
     "total_cites": 1632,
     "hindex": 22,
     "hmindex": 11.93,
-    "nps": 4,
-    "ncs": 17,
+    "distinct_papers": 1180,
+    "ratio_cp": 1.38,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 143
 },{
@@ -2154,8 +2154,8 @@
     "total_cites": 888,
     "hindex": 17,
     "hmindex": 10.92,
-    "nps": 11,
-    "ncs": 74,
+    "distinct_papers": 771,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 144
 },{
@@ -2169,8 +2169,8 @@
     "total_cites": 2266,
     "hindex": 24,
     "hmindex": 15.53,
-    "nps": 4,
-    "ncs": 1,
+    "distinct_papers": 1484,
+    "ratio_cp": 1.53,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 145
 },{
@@ -2184,8 +2184,8 @@
     "total_cites": 2426,
     "hindex": 26,
     "hmindex": 14.1,
-    "nps": 5,
-    "ncs": 13,
+    "distinct_papers": 2117,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 146
 },{
@@ -2199,8 +2199,8 @@
     "total_cites": 2317,
     "hindex": 26,
     "hmindex": 15.85,
-    "nps": 7,
-    "ncs": 5,
+    "distinct_papers": 1511,
+    "ratio_cp": 1.53,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 147
 },{
@@ -2214,8 +2214,8 @@
     "total_cites": 1322,
     "hindex": 9,
     "hmindex": 5.45,
-    "nps": 2,
-    "ncs": 243,
+    "distinct_papers": 1286,
+    "ratio_cp": 1.03,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 148
 },{
@@ -2229,8 +2229,8 @@
     "total_cites": 1119,
     "hindex": 14,
     "hmindex": 8.67,
-    "nps": 3,
-    "ncs": 108,
+    "distinct_papers": 930,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 149
 },{
@@ -2244,8 +2244,8 @@
     "total_cites": 1805,
     "hindex": 20,
     "hmindex": 11.78,
-    "nps": 10,
-    "ncs": 48,
+    "distinct_papers": 1625,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 150
 },{
@@ -2259,8 +2259,8 @@
     "total_cites": 2401,
     "hindex": 26,
     "hmindex": 16.03,
-    "nps": 1,
-    "ncs": 6,
+    "distinct_papers": 1773,
+    "ratio_cp": 1.35,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 151
 },{
@@ -2274,8 +2274,8 @@
     "total_cites": 778,
     "hindex": 15,
     "hmindex": 9.7,
-    "nps": 5,
-    "ncs": 193,
+    "distinct_papers": 575,
+    "ratio_cp": 1.35,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 152
 },{
@@ -2289,8 +2289,8 @@
     "total_cites": 2886,
     "hindex": 30,
     "hmindex": 15.56,
-    "nps": 3,
-    "ncs": 6,
+    "distinct_papers": 2593,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 153
 },{
@@ -2304,8 +2304,8 @@
     "total_cites": 622,
     "hindex": 11,
     "hmindex": 9.08,
-    "nps": 24,
-    "ncs": 389,
+    "distinct_papers": 484,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 154
 },{
@@ -2319,8 +2319,8 @@
     "total_cites": 1169,
     "hindex": 17,
     "hmindex": 11.23,
-    "nps": 4,
-    "ncs": 31,
+    "distinct_papers": 794,
+    "ratio_cp": 1.47,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 155
 },{
@@ -2334,8 +2334,8 @@
     "total_cites": 526,
     "hindex": 11,
     "hmindex": 10.5,
-    "nps": 23,
-    "ncs": 403,
+    "distinct_papers": 383,
+    "ratio_cp": 1.37,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 156
 },{
@@ -2349,8 +2349,8 @@
     "total_cites": 4131,
     "hindex": 40,
     "hmindex": 12.43,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 3282,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 157
 },{
@@ -2364,8 +2364,8 @@
     "total_cites": 626,
     "hindex": 12,
     "hmindex": 9.67,
-    "nps": 21,
-    "ncs": 283,
+    "distinct_papers": 542,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 158
 },{
@@ -2379,8 +2379,8 @@
     "total_cites": 1718,
     "hindex": 22,
     "hmindex": 9.96,
-    "nps": 8,
-    "ncs": 35,
+    "distinct_papers": 1421,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 159
 },{
@@ -2394,8 +2394,8 @@
     "total_cites": 777,
     "hindex": 13,
     "hmindex": 9.0,
-    "nps": 6,
-    "ncs": 305,
+    "distinct_papers": 686,
+    "ratio_cp": 1.13,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 160
 },{
@@ -2409,8 +2409,8 @@
     "total_cites": 1350,
     "hindex": 22,
     "hmindex": 10.07,
-    "nps": 5,
-    "ncs": 66,
+    "distinct_papers": 997,
+    "ratio_cp": 1.35,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 161
 },{
@@ -2424,8 +2424,8 @@
     "total_cites": 640,
     "hindex": 15,
     "hmindex": 9.52,
-    "nps": 11,
-    "ncs": 209,
+    "distinct_papers": 487,
+    "ratio_cp": 1.31,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 162
 },{
@@ -2439,8 +2439,8 @@
     "total_cites": 1941,
     "hindex": 25,
     "hmindex": 14.75,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1663,
+    "ratio_cp": 1.17,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 163
 },{
@@ -2454,8 +2454,8 @@
     "total_cites": 3692,
     "hindex": 31,
     "hmindex": 13.94,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 3127,
+    "ratio_cp": 1.18,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 164
 },{
@@ -2469,8 +2469,8 @@
     "total_cites": 1654,
     "hindex": 17,
     "hmindex": 11.08,
-    "nps": 2,
-    "ncs": 45,
+    "distinct_papers": 1430,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 165
 },{
@@ -2484,8 +2484,8 @@
     "total_cites": 701,
     "hindex": 14,
     "hmindex": 9.73,
-    "nps": 18,
-    "ncs": 151,
+    "distinct_papers": 586,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 166
 },{
@@ -2499,8 +2499,8 @@
     "total_cites": 3208,
     "hindex": 27,
     "hmindex": 12.79,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 2922,
+    "ratio_cp": 1.1,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 167
 },{
@@ -2514,8 +2514,8 @@
     "total_cites": 578,
     "hindex": 15,
     "hmindex": 10.65,
-    "nps": 8,
-    "ncs": 165,
+    "distinct_papers": 404,
+    "ratio_cp": 1.43,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 168
 },{
@@ -2529,8 +2529,8 @@
     "total_cites": 1348,
     "hindex": 19,
     "hmindex": 11.62,
-    "nps": 4,
-    "ncs": 19,
+    "distinct_papers": 860,
+    "ratio_cp": 1.57,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 169
 },{
@@ -2544,8 +2544,8 @@
     "total_cites": 1086,
     "hindex": 18,
     "hmindex": 9.95,
-    "nps": 2,
-    "ncs": 37,
+    "distinct_papers": 981,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 170
 },{
@@ -2559,8 +2559,8 @@
     "total_cites": 6860,
     "hindex": 41,
     "hmindex": 17.76,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 5642,
+    "ratio_cp": 1.22,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 171
 },{
@@ -2574,8 +2574,8 @@
     "total_cites": 933,
     "hindex": 20,
     "hmindex": 10.5,
-    "nps": 1,
-    "ncs": 65,
+    "distinct_papers": 805,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 172
 },{
@@ -2589,8 +2589,8 @@
     "total_cites": 481,
     "hindex": 13,
     "hmindex": 10.58,
-    "nps": 14,
-    "ncs": 271,
+    "distinct_papers": 389,
+    "ratio_cp": 1.24,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 173
 },{
@@ -2604,8 +2604,8 @@
     "total_cites": 1376,
     "hindex": 20,
     "hmindex": 10.95,
-    "nps": 7,
-    "ncs": 16,
+    "distinct_papers": 1199,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 174
 },{
@@ -2619,8 +2619,8 @@
     "total_cites": 1274,
     "hindex": 20,
     "hmindex": 10.57,
-    "nps": 4,
-    "ncs": 34,
+    "distinct_papers": 1122,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 175
 },{
@@ -2634,8 +2634,8 @@
     "total_cites": 1048,
     "hindex": 17,
     "hmindex": 9.05,
-    "nps": 10,
-    "ncs": 47,
+    "distinct_papers": 530,
+    "ratio_cp": 1.98,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 176
 },{
@@ -2649,8 +2649,8 @@
     "total_cites": 1083,
     "hindex": 19,
     "hmindex": 10.98,
-    "nps": 16,
-    "ncs": 71,
+    "distinct_papers": 884,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 177
 },{
@@ -2664,8 +2664,8 @@
     "total_cites": 760,
     "hindex": 16,
     "hmindex": 9.98,
-    "nps": 4,
-    "ncs": 80,
+    "distinct_papers": 518,
+    "ratio_cp": 1.47,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 178
 },{
@@ -2679,8 +2679,8 @@
     "total_cites": 2037,
     "hindex": 24,
     "hmindex": 10.2,
-    "nps": 9,
-    "ncs": 40,
+    "distinct_papers": 1423,
+    "ratio_cp": 1.43,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 179
 },{
@@ -2694,8 +2694,8 @@
     "total_cites": 1029,
     "hindex": 16,
     "hmindex": 9.52,
-    "nps": 6,
-    "ncs": 80,
+    "distinct_papers": 763,
+    "ratio_cp": 1.35,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 180
 },{
@@ -2709,8 +2709,8 @@
     "total_cites": 1277,
     "hindex": 20,
     "hmindex": 10.21,
-    "nps": 11,
-    "ncs": 31,
+    "distinct_papers": 1139,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 181
 },{
@@ -2724,8 +2724,8 @@
     "total_cites": 941,
     "hindex": 15,
     "hmindex": 11.7,
-    "nps": 9,
-    "ncs": 65,
+    "distinct_papers": 675,
+    "ratio_cp": 1.39,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 182
 },{
@@ -2739,8 +2739,8 @@
     "total_cites": 585,
     "hindex": 12,
     "hmindex": 8.42,
-    "nps": 6,
-    "ncs": 193,
+    "distinct_papers": 536,
+    "ratio_cp": 1.09,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 183
 },{
@@ -2754,8 +2754,8 @@
     "total_cites": 2242,
     "hindex": 29,
     "hmindex": 14.3,
-    "nps": 3,
-    "ncs": 6,
+    "distinct_papers": 1654,
+    "ratio_cp": 1.36,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 184
 },{
@@ -2769,8 +2769,8 @@
     "total_cites": 1014,
     "hindex": 10,
     "hmindex": 7.17,
-    "nps": 7,
-    "ncs": 70,
+    "distinct_papers": 912,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 185
 },{
@@ -2784,8 +2784,8 @@
     "total_cites": 1970,
     "hindex": 26,
     "hmindex": 13.73,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1534,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 186
 },{
@@ -2799,8 +2799,8 @@
     "total_cites": 1729,
     "hindex": 22,
     "hmindex": 12.12,
-    "nps": 4,
-    "ncs": 5,
+    "distinct_papers": 1244,
+    "ratio_cp": 1.39,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 187
 },{
@@ -2814,8 +2814,8 @@
     "total_cites": 377,
     "hindex": 13,
     "hmindex": 11.0,
-    "nps": 20,
-    "ncs": 299,
+    "distinct_papers": 240,
+    "ratio_cp": 1.57,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 188
 },{
@@ -2829,8 +2829,8 @@
     "total_cites": 1382,
     "hindex": 19,
     "hmindex": 11.2,
-    "nps": 1,
-    "ncs": 39,
+    "distinct_papers": 1145,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 189
 },{
@@ -2844,8 +2844,8 @@
     "total_cites": 2534,
     "hindex": 26,
     "hmindex": 12.24,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 2023,
+    "ratio_cp": 1.25,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 190
 },{
@@ -2859,8 +2859,8 @@
     "total_cites": 2562,
     "hindex": 21,
     "hmindex": 8.47,
-    "nps": 4,
-    "ncs": 8,
+    "distinct_papers": 2209,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 191
 },{
@@ -2874,8 +2874,8 @@
     "total_cites": 743,
     "hindex": 17,
     "hmindex": 11.08,
-    "nps": 15,
-    "ncs": 121,
+    "distinct_papers": 622,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 192
 },{
@@ -2889,8 +2889,8 @@
     "total_cites": 1905,
     "hindex": 23,
     "hmindex": 13.57,
-    "nps": 1,
-    "ncs": 2,
+    "distinct_papers": 1340,
+    "ratio_cp": 1.42,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 193
 },{
@@ -2904,8 +2904,8 @@
     "total_cites": 500,
     "hindex": 12,
     "hmindex": 9.0,
-    "nps": 14,
-    "ncs": 220,
+    "distinct_papers": 392,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 194
 },{
@@ -2919,8 +2919,8 @@
     "total_cites": 1664,
     "hindex": 18,
     "hmindex": 10.65,
-    "nps": 1,
-    "ncs": 32,
+    "distinct_papers": 1519,
+    "ratio_cp": 1.1,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 195
 },{
@@ -2934,8 +2934,8 @@
     "total_cites": 3078,
     "hindex": 26,
     "hmindex": 8.52,
-    "nps": 1,
-    "ncs": 27,
+    "distinct_papers": 2798,
+    "ratio_cp": 1.1,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 196
 },{
@@ -2949,8 +2949,8 @@
     "total_cites": 2103,
     "hindex": 25,
     "hmindex": 14.4,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1643,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 197
 },{
@@ -2964,8 +2964,8 @@
     "total_cites": 745,
     "hindex": 12,
     "hmindex": 8.0,
-    "nps": 4,
-    "ncs": 149,
+    "distinct_papers": 584,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 198
 },{
@@ -2979,8 +2979,8 @@
     "total_cites": 896,
     "hindex": 15,
     "hmindex": 7.15,
-    "nps": 1,
-    "ncs": 125,
+    "distinct_papers": 803,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 199
 },{
@@ -2994,8 +2994,8 @@
     "total_cites": 1038,
     "hindex": 19,
     "hmindex": 11.58,
-    "nps": 2,
-    "ncs": 20,
+    "distinct_papers": 716,
+    "ratio_cp": 1.45,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 200
 },{
@@ -3009,8 +3009,8 @@
     "total_cites": 550,
     "hindex": 9,
     "hmindex": 6.83,
-    "nps": 6,
-    "ncs": 397,
+    "distinct_papers": 519,
+    "ratio_cp": 1.06,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 201
 },{
@@ -3024,8 +3024,8 @@
     "total_cites": 597,
     "hindex": 13,
     "hmindex": 9.08,
-    "nps": 9,
-    "ncs": 96,
+    "distinct_papers": 433,
+    "ratio_cp": 1.38,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 202
 },{
@@ -3039,8 +3039,8 @@
     "total_cites": 1275,
     "hindex": 20,
     "hmindex": 9.89,
-    "nps": 11,
-    "ncs": 18,
+    "distinct_papers": 903,
+    "ratio_cp": 1.41,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 203
 },{
@@ -3054,8 +3054,8 @@
     "total_cites": 974,
     "hindex": 18,
     "hmindex": 9.98,
-    "nps": 5,
-    "ncs": 30,
+    "distinct_papers": 719,
+    "ratio_cp": 1.35,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 204
 },{
@@ -3069,8 +3069,8 @@
     "total_cites": 8286,
     "hindex": 32,
     "hmindex": 11.17,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 4413,
+    "ratio_cp": 1.88,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 205
 },{
@@ -3084,8 +3084,8 @@
     "total_cites": 3988,
     "hindex": 35,
     "hmindex": 18.87,
-    "nps": 1,
-    "ncs": 0,
+    "distinct_papers": 3297,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 206
 },{
@@ -3099,8 +3099,8 @@
     "total_cites": 850,
     "hindex": 15,
     "hmindex": 11.44,
-    "nps": 11,
-    "ncs": 45,
+    "distinct_papers": 664,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 207
 },{
@@ -3114,8 +3114,8 @@
     "total_cites": 3554,
     "hindex": 33,
     "hmindex": 14.96,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 2953,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 208
 },{
@@ -3129,8 +3129,8 @@
     "total_cites": 907,
     "hindex": 5,
     "hmindex": 3.5,
-    "nps": 10,
-    "ncs": 887,
+    "distinct_papers": 906,
+    "ratio_cp": 1.0,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 209
 },{
@@ -3144,8 +3144,8 @@
     "total_cites": 1089,
     "hindex": 15,
     "hmindex": 7.82,
-    "nps": 4,
-    "ncs": 29,
+    "distinct_papers": 829,
+    "ratio_cp": 1.31,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 210
 },{
@@ -3159,8 +3159,8 @@
     "total_cites": 1299,
     "hindex": 21,
     "hmindex": 7.38,
-    "nps": 1,
-    "ncs": 23,
+    "distinct_papers": 1116,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 211
 },{
@@ -3174,8 +3174,8 @@
     "total_cites": 1020,
     "hindex": 18,
     "hmindex": 8.98,
-    "nps": 2,
-    "ncs": 25,
+    "distinct_papers": 817,
+    "ratio_cp": 1.25,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 212
 },{
@@ -3189,8 +3189,8 @@
     "total_cites": 354,
     "hindex": 10,
     "hmindex": 10.0,
-    "nps": 53,
-    "ncs": 354,
+    "distinct_papers": 268,
+    "ratio_cp": 1.32,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 213
 },{
@@ -3204,8 +3204,8 @@
     "total_cites": 531,
     "hindex": 14,
     "hmindex": 9.41,
-    "nps": 9,
-    "ncs": 96,
+    "distinct_papers": 433,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 214
 },{
@@ -3219,8 +3219,8 @@
     "total_cites": 1303,
     "hindex": 21,
     "hmindex": 10.21,
-    "nps": 2,
-    "ncs": 16,
+    "distinct_papers": 815,
+    "ratio_cp": 1.6,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 215
 },{
@@ -3234,8 +3234,8 @@
     "total_cites": 1832,
     "hindex": 24,
     "hmindex": 13.3,
-    "nps": 1,
-    "ncs": 1,
+    "distinct_papers": 1493,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 216
 },{
@@ -3249,8 +3249,8 @@
     "total_cites": 4393,
     "hindex": 40,
     "hmindex": 12.86,
-    "nps": 1,
-    "ncs": 0,
+    "distinct_papers": 3403,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 217
 },{
@@ -3264,8 +3264,8 @@
     "total_cites": 746,
     "hindex": 12,
     "hmindex": 5.67,
-    "nps": 2,
-    "ncs": 193,
+    "distinct_papers": 504,
+    "ratio_cp": 1.48,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 218
 },{
@@ -3279,8 +3279,8 @@
     "total_cites": 1885,
     "hindex": 23,
     "hmindex": 7.56,
-    "nps": 1,
-    "ncs": 1,
+    "distinct_papers": 1671,
+    "ratio_cp": 1.13,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 219
 },{
@@ -3294,8 +3294,8 @@
     "total_cites": 787,
     "hindex": 14,
     "hmindex": 10.03,
-    "nps": 16,
-    "ncs": 73,
+    "distinct_papers": 701,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 220
 },{
@@ -3309,8 +3309,8 @@
     "total_cites": 785,
     "hindex": 11,
     "hmindex": 6.77,
-    "nps": 2,
-    "ncs": 97,
+    "distinct_papers": 625,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 221
 },{
@@ -3324,8 +3324,8 @@
     "total_cites": 1053,
     "hindex": 16,
     "hmindex": 9.5,
-    "nps": 5,
-    "ncs": 57,
+    "distinct_papers": 927,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 222
 },{
@@ -3339,8 +3339,8 @@
     "total_cites": 972,
     "hindex": 16,
     "hmindex": 7.66,
-    "nps": 38,
-    "ncs": 104,
+    "distinct_papers": 861,
+    "ratio_cp": 1.13,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 223
 },{
@@ -3354,8 +3354,8 @@
     "total_cites": 2773,
     "hindex": 25,
     "hmindex": 12.8,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1873,
+    "ratio_cp": 1.48,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 224
 },{
@@ -3369,8 +3369,8 @@
     "total_cites": 2763,
     "hindex": 25,
     "hmindex": 13.92,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 2015,
+    "ratio_cp": 1.37,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 225
 },{
@@ -3384,8 +3384,8 @@
     "total_cites": 1845,
     "hindex": 24,
     "hmindex": 14.2,
-    "nps": 3,
-    "ncs": 11,
+    "distinct_papers": 1223,
+    "ratio_cp": 1.51,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 226
 },{
@@ -3399,8 +3399,8 @@
     "total_cites": 526,
     "hindex": 8,
     "hmindex": 6.0,
-    "nps": 41,
-    "ncs": 462,
+    "distinct_papers": 490,
+    "ratio_cp": 1.07,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 227
 },{
@@ -3414,8 +3414,8 @@
     "total_cites": 1110,
     "hindex": 17,
     "hmindex": 9.5,
-    "nps": 2,
-    "ncs": 73,
+    "distinct_papers": 980,
+    "ratio_cp": 1.13,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 228
 },{
@@ -3429,8 +3429,8 @@
     "total_cites": 805,
     "hindex": 13,
     "hmindex": 6.95,
-    "nps": 2,
-    "ncs": 97,
+    "distinct_papers": 776,
+    "ratio_cp": 1.04,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 229
 },{
@@ -3444,8 +3444,8 @@
     "total_cites": 714,
     "hindex": 12,
     "hmindex": 7.0,
-    "nps": 5,
-    "ncs": 121,
+    "distinct_papers": 679,
+    "ratio_cp": 1.05,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 230
 },{
@@ -3459,8 +3459,8 @@
     "total_cites": 1603,
     "hindex": 23,
     "hmindex": 12.78,
-    "nps": 5,
-    "ncs": 14,
+    "distinct_papers": 1242,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 231
 },{
@@ -3474,8 +3474,8 @@
     "total_cites": 574,
     "hindex": 15,
     "hmindex": 8.78,
-    "nps": 4,
-    "ncs": 127,
+    "distinct_papers": 520,
+    "ratio_cp": 1.1,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 232
 },{
@@ -3489,8 +3489,8 @@
     "total_cites": 743,
     "hindex": 16,
     "hmindex": 8.29,
-    "nps": 4,
-    "ncs": 46,
+    "distinct_papers": 637,
+    "ratio_cp": 1.17,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 233
 },{
@@ -3504,8 +3504,8 @@
     "total_cites": 328,
     "hindex": 10,
     "hmindex": 10.0,
-    "nps": 88,
-    "ncs": 322,
+    "distinct_papers": 274,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 234
 },{
@@ -3519,8 +3519,8 @@
     "total_cites": 608,
     "hindex": 14,
     "hmindex": 8.67,
-    "nps": 10,
-    "ncs": 131,
+    "distinct_papers": 461,
+    "ratio_cp": 1.32,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 235
 },{
@@ -3534,8 +3534,8 @@
     "total_cites": 2865,
     "hindex": 25,
     "hmindex": 14.77,
-    "nps": 1,
-    "ncs": 0,
+    "distinct_papers": 2288,
+    "ratio_cp": 1.25,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 236
 },{
@@ -3549,8 +3549,8 @@
     "total_cites": 1472,
     "hindex": 19,
     "hmindex": 12.9,
-    "nps": 11,
-    "ncs": 2,
+    "distinct_papers": 1147,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 237
 },{
@@ -3564,8 +3564,8 @@
     "total_cites": 537,
     "hindex": 14,
     "hmindex": 7.68,
-    "nps": 3,
-    "ncs": 118,
+    "distinct_papers": 498,
+    "ratio_cp": 1.08,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 238
 },{
@@ -3579,8 +3579,8 @@
     "total_cites": 760,
     "hindex": 16,
     "hmindex": 8.75,
-    "nps": 3,
-    "ncs": 23,
+    "distinct_papers": 699,
+    "ratio_cp": 1.09,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 239
 },{
@@ -3594,8 +3594,8 @@
     "total_cites": 500,
     "hindex": 11,
     "hmindex": 6.78,
-    "nps": 5,
-    "ncs": 283,
+    "distinct_papers": 446,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 240
 },{
@@ -3609,8 +3609,8 @@
     "total_cites": 1603,
     "hindex": 18,
     "hmindex": 12.17,
-    "nps": 3,
-    "ncs": 4,
+    "distinct_papers": 1259,
+    "ratio_cp": 1.27,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 241
 },{
@@ -3624,8 +3624,8 @@
     "total_cites": 847,
     "hindex": 14,
     "hmindex": 6.08,
-    "nps": 3,
-    "ncs": 79,
+    "distinct_papers": 763,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 242
 },{
@@ -3639,8 +3639,8 @@
     "total_cites": 1374,
     "hindex": 15,
     "hmindex": 7.95,
-    "nps": 1,
-    "ncs": 8,
+    "distinct_papers": 1129,
+    "ratio_cp": 1.22,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 243
 },{
@@ -3654,8 +3654,8 @@
     "total_cites": 5512,
     "hindex": 17,
     "hmindex": 7.29,
-    "nps": 3,
-    "ncs": 4,
+    "distinct_papers": 5145,
+    "ratio_cp": 1.07,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 244
 },{
@@ -3669,8 +3669,8 @@
     "total_cites": 1578,
     "hindex": 23,
     "hmindex": 10.8,
-    "nps": 1,
-    "ncs": 5,
+    "distinct_papers": 1247,
+    "ratio_cp": 1.27,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 245
 },{
@@ -3684,8 +3684,8 @@
     "total_cites": 847,
     "hindex": 14,
     "hmindex": 8.52,
-    "nps": 18,
-    "ncs": 83,
+    "distinct_papers": 583,
+    "ratio_cp": 1.45,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 246
 },{
@@ -3699,8 +3699,8 @@
     "total_cites": 572,
     "hindex": 13,
     "hmindex": 7.92,
-    "nps": 10,
-    "ncs": 119,
+    "distinct_papers": 458,
+    "ratio_cp": 1.25,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 247
 },{
@@ -3714,8 +3714,8 @@
     "total_cites": 2182,
     "hindex": 26,
     "hmindex": 14.78,
-    "nps": 6,
-    "ncs": 3,
+    "distinct_papers": 1910,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 248
 },{
@@ -3729,8 +3729,8 @@
     "total_cites": 727,
     "hindex": 16,
     "hmindex": 9.82,
-    "nps": 4,
-    "ncs": 64,
+    "distinct_papers": 573,
+    "ratio_cp": 1.27,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 249
 },{
@@ -3744,8 +3744,8 @@
     "total_cites": 936,
     "hindex": 16,
     "hmindex": 7.98,
-    "nps": 1,
-    "ncs": 28,
+    "distinct_papers": 762,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 250
 },{
@@ -3759,8 +3759,8 @@
     "total_cites": 2114,
     "hindex": 28,
     "hmindex": 12.63,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1598,
+    "ratio_cp": 1.32,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 251
 },{
@@ -3774,8 +3774,8 @@
     "total_cites": 414,
     "hindex": 11,
     "hmindex": 9.23,
-    "nps": 30,
-    "ncs": 194,
+    "distinct_papers": 338,
+    "ratio_cp": 1.22,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 252
 },{
@@ -3789,8 +3789,8 @@
     "total_cites": 1485,
     "hindex": 21,
     "hmindex": 12.37,
-    "nps": 2,
-    "ncs": 3,
+    "distinct_papers": 1215,
+    "ratio_cp": 1.22,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 253
 },{
@@ -3804,8 +3804,8 @@
     "total_cites": 717,
     "hindex": 6,
     "hmindex": 4.03,
-    "nps": 5,
-    "ncs": 586,
+    "distinct_papers": 658,
+    "ratio_cp": 1.09,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 254
 },{
@@ -3819,8 +3819,8 @@
     "total_cites": 779,
     "hindex": 13,
     "hmindex": 8.92,
-    "nps": 4,
-    "ncs": 100,
+    "distinct_papers": 707,
+    "ratio_cp": 1.1,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 255
 },{
@@ -3834,8 +3834,8 @@
     "total_cites": 741,
     "hindex": 15,
     "hmindex": 10.17,
-    "nps": 4,
-    "ncs": 22,
+    "distinct_papers": 604,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 256
 },{
@@ -3849,8 +3849,8 @@
     "total_cites": 1158,
     "hindex": 18,
     "hmindex": 9.74,
-    "nps": 2,
-    "ncs": 3,
+    "distinct_papers": 831,
+    "ratio_cp": 1.39,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 257
 },{
@@ -3864,8 +3864,8 @@
     "total_cites": 855,
     "hindex": 16,
     "hmindex": 8.23,
-    "nps": 5,
-    "ncs": 28,
+    "distinct_papers": 713,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 258
 },{
@@ -3879,8 +3879,8 @@
     "total_cites": 304,
     "hindex": 11,
     "hmindex": 10.25,
-    "nps": 27,
-    "ncs": 239,
+    "distinct_papers": 286,
+    "ratio_cp": 1.06,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 259
 },{
@@ -3894,8 +3894,8 @@
     "total_cites": 1650,
     "hindex": 23,
     "hmindex": 14.83,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1018,
+    "ratio_cp": 1.62,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 260
 },{
@@ -3909,8 +3909,8 @@
     "total_cites": 557,
     "hindex": 14,
     "hmindex": 7.58,
-    "nps": 2,
-    "ncs": 62,
+    "distinct_papers": 359,
+    "ratio_cp": 1.55,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 261
 },{
@@ -3924,8 +3924,8 @@
     "total_cites": 1420,
     "hindex": 19,
     "hmindex": 9.9,
-    "nps": 8,
-    "ncs": 34,
+    "distinct_papers": 1197,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 262
 },{
@@ -3939,8 +3939,8 @@
     "total_cites": 1603,
     "hindex": 22,
     "hmindex": 13.78,
-    "nps": 2,
-    "ncs": 2,
+    "distinct_papers": 1117,
+    "ratio_cp": 1.44,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 263
 },{
@@ -3954,8 +3954,8 @@
     "total_cites": 1440,
     "hindex": 21,
     "hmindex": 9.59,
-    "nps": 9,
-    "ncs": 9,
+    "distinct_papers": 1265,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 264
 },{
@@ -3969,8 +3969,8 @@
     "total_cites": 484,
     "hindex": 13,
     "hmindex": 8.87,
-    "nps": 5,
-    "ncs": 84,
+    "distinct_papers": 427,
+    "ratio_cp": 1.13,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 265
 },{
@@ -3984,8 +3984,8 @@
     "total_cites": 1094,
     "hindex": 17,
     "hmindex": 8.13,
-    "nps": 1,
-    "ncs": 8,
+    "distinct_papers": 727,
+    "ratio_cp": 1.5,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 266
 },{
@@ -3999,8 +3999,8 @@
     "total_cites": 910,
     "hindex": 15,
     "hmindex": 5.59,
-    "nps": 1,
-    "ncs": 55,
+    "distinct_papers": 773,
+    "ratio_cp": 1.18,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 267
 },{
@@ -4014,8 +4014,8 @@
     "total_cites": 821,
     "hindex": 18,
     "hmindex": 9.42,
-    "nps": 3,
-    "ncs": 68,
+    "distinct_papers": 716,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 268
 },{
@@ -4029,8 +4029,8 @@
     "total_cites": 413,
     "hindex": 13,
     "hmindex": 9.54,
-    "nps": 19,
-    "ncs": 126,
+    "distinct_papers": 303,
+    "ratio_cp": 1.36,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 269
 },{
@@ -4044,8 +4044,8 @@
     "total_cites": 415,
     "hindex": 12,
     "hmindex": 8.62,
-    "nps": 11,
-    "ncs": 130,
+    "distinct_papers": 305,
+    "ratio_cp": 1.36,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 270
 },{
@@ -4059,8 +4059,8 @@
     "total_cites": 946,
     "hindex": 14,
     "hmindex": 9.68,
-    "nps": 14,
-    "ncs": 46,
+    "distinct_papers": 804,
+    "ratio_cp": 1.18,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 271
 },{
@@ -4074,8 +4074,8 @@
     "total_cites": 1289,
     "hindex": 19,
     "hmindex": 10.17,
-    "nps": 2,
-    "ncs": 9,
+    "distinct_papers": 1075,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 272
 },{
@@ -4089,8 +4089,8 @@
     "total_cites": 812,
     "hindex": 12,
     "hmindex": 7.75,
-    "nps": 6,
-    "ncs": 37,
+    "distinct_papers": 642,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 273
 },{
@@ -4104,8 +4104,8 @@
     "total_cites": 1101,
     "hindex": 13,
     "hmindex": 6.02,
-    "nps": 2,
-    "ncs": 65,
+    "distinct_papers": 1067,
+    "ratio_cp": 1.03,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 274
 },{
@@ -4119,8 +4119,8 @@
     "total_cites": 402,
     "hindex": 9,
     "hmindex": 7.42,
-    "nps": 14,
-    "ncs": 204,
+    "distinct_papers": 212,
+    "ratio_cp": 1.9,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 275
 },{
@@ -4134,8 +4134,8 @@
     "total_cites": 711,
     "hindex": 13,
     "hmindex": 7.43,
-    "nps": 10,
-    "ncs": 73,
+    "distinct_papers": 603,
+    "ratio_cp": 1.18,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 276
 },{
@@ -4149,8 +4149,8 @@
     "total_cites": 481,
     "hindex": 12,
     "hmindex": 6.82,
-    "nps": 2,
-    "ncs": 191,
+    "distinct_papers": 408,
+    "ratio_cp": 1.18,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 277
 },{
@@ -4164,8 +4164,8 @@
     "total_cites": 831,
     "hindex": 18,
     "hmindex": 10.68,
-    "nps": 5,
-    "ncs": 10,
+    "distinct_papers": 722,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 278
 },{
@@ -4179,8 +4179,8 @@
     "total_cites": 493,
     "hindex": 9,
     "hmindex": 5.92,
-    "nps": 3,
-    "ncs": 285,
+    "distinct_papers": 406,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 279
 },{
@@ -4194,8 +4194,8 @@
     "total_cites": 551,
     "hindex": 12,
     "hmindex": 8.57,
-    "nps": 11,
-    "ncs": 53,
+    "distinct_papers": 501,
+    "ratio_cp": 1.1,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 280
 },{
@@ -4209,8 +4209,8 @@
     "total_cites": 5098,
     "hindex": 12,
     "hmindex": 4.7,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 3481,
+    "ratio_cp": 1.46,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 281
 },{
@@ -4224,8 +4224,8 @@
     "total_cites": 3156,
     "hindex": 29,
     "hmindex": 13.33,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 2523,
+    "ratio_cp": 1.25,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 282
 },{
@@ -4239,8 +4239,8 @@
     "total_cites": 2329,
     "hindex": 27,
     "hmindex": 13.55,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1801,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 283
 },{
@@ -4254,8 +4254,8 @@
     "total_cites": 1590,
     "hindex": 24,
     "hmindex": 12.38,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1087,
+    "ratio_cp": 1.46,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 284
 },{
@@ -4269,8 +4269,8 @@
     "total_cites": 456,
     "hindex": 12,
     "hmindex": 7.34,
-    "nps": 30,
-    "ncs": 174,
+    "distinct_papers": 409,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 285
 },{
@@ -4284,8 +4284,8 @@
     "total_cites": 642,
     "hindex": 10,
     "hmindex": 5.5,
-    "nps": 3,
-    "ncs": 102,
+    "distinct_papers": 555,
+    "ratio_cp": 1.16,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 286
 },{
@@ -4299,8 +4299,8 @@
     "total_cites": 1215,
     "hindex": 19,
     "hmindex": 9.95,
-    "nps": 3,
-    "ncs": 5,
+    "distinct_papers": 921,
+    "ratio_cp": 1.32,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 287
 },{
@@ -4314,8 +4314,8 @@
     "total_cites": 2995,
     "hindex": 32,
     "hmindex": 13.85,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 2404,
+    "ratio_cp": 1.25,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 288
 },{
@@ -4329,8 +4329,8 @@
     "total_cites": 484,
     "hindex": 11,
     "hmindex": 5.95,
-    "nps": 3,
-    "ncs": 153,
+    "distinct_papers": 375,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 289
 },{
@@ -4344,8 +4344,8 @@
     "total_cites": 765,
     "hindex": 14,
     "hmindex": 7.97,
-    "nps": 6,
-    "ncs": 51,
+    "distinct_papers": 649,
+    "ratio_cp": 1.18,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 290
 },{
@@ -4359,8 +4359,8 @@
     "total_cites": 1929,
     "hindex": 24,
     "hmindex": 13.57,
-    "nps": 1,
-    "ncs": 0,
+    "distinct_papers": 1389,
+    "ratio_cp": 1.39,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 291
 },{
@@ -4374,8 +4374,8 @@
     "total_cites": 1537,
     "hindex": 21,
     "hmindex": 9.05,
-    "nps": 1,
-    "ncs": 3,
+    "distinct_papers": 1339,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 292
 },{
@@ -4389,8 +4389,8 @@
     "total_cites": 2090,
     "hindex": 25,
     "hmindex": 11.37,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1592,
+    "ratio_cp": 1.31,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 293
 },{
@@ -4404,8 +4404,8 @@
     "total_cites": 656,
     "hindex": 12,
     "hmindex": 8.0,
-    "nps": 3,
-    "ncs": 79,
+    "distinct_papers": 429,
+    "ratio_cp": 1.53,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 294
 },{
@@ -4419,8 +4419,8 @@
     "total_cites": 2433,
     "hindex": 22,
     "hmindex": 12.9,
-    "nps": 1,
-    "ncs": 0,
+    "distinct_papers": 1955,
+    "ratio_cp": 1.24,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 295
 },{
@@ -4434,8 +4434,8 @@
     "total_cites": 476,
     "hindex": 13,
     "hmindex": 7.53,
-    "nps": 4,
-    "ncs": 67,
+    "distinct_papers": 419,
+    "ratio_cp": 1.14,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 296
 },{
@@ -4449,8 +4449,8 @@
     "total_cites": 1160,
     "hindex": 15,
     "hmindex": 8.62,
-    "nps": 3,
-    "ncs": 9,
+    "distinct_papers": 977,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 297
 },{
@@ -4464,8 +4464,8 @@
     "total_cites": 313,
     "hindex": 8,
     "hmindex": 8.0,
-    "nps": 21,
-    "ncs": 313,
+    "distinct_papers": 305,
+    "ratio_cp": 1.03,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 298
 },{
@@ -4479,8 +4479,8 @@
     "total_cites": 585,
     "hindex": 12,
     "hmindex": 6.58,
-    "nps": 4,
-    "ncs": 82,
+    "distinct_papers": 507,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 299
 },{
@@ -4494,8 +4494,8 @@
     "total_cites": 483,
     "hindex": 13,
     "hmindex": 9.25,
-    "nps": 16,
-    "ncs": 52,
+    "distinct_papers": 382,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 300
 },{
@@ -4509,8 +4509,8 @@
     "total_cites": 715,
     "hindex": 16,
     "hmindex": 6.7,
-    "nps": 1,
-    "ncs": 25,
+    "distinct_papers": 577,
+    "ratio_cp": 1.24,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 301
 },{
@@ -4524,8 +4524,8 @@
     "total_cites": 1085,
     "hindex": 18,
     "hmindex": 9.46,
-    "nps": 3,
-    "ncs": 29,
+    "distinct_papers": 1004,
+    "ratio_cp": 1.08,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 302
 },{
@@ -4539,8 +4539,8 @@
     "total_cites": 698,
     "hindex": 15,
     "hmindex": 8.07,
-    "nps": 5,
-    "ncs": 68,
+    "distinct_papers": 506,
+    "ratio_cp": 1.38,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 303
 },{
@@ -4554,8 +4554,8 @@
     "total_cites": 638,
     "hindex": 11,
     "hmindex": 6.94,
-    "nps": 4,
-    "ncs": 129,
+    "distinct_papers": 572,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 304
 },{
@@ -4569,8 +4569,8 @@
     "total_cites": 582,
     "hindex": 13,
     "hmindex": 6.03,
-    "nps": 6,
-    "ncs": 70,
+    "distinct_papers": 523,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 305
 },{
@@ -4584,8 +4584,8 @@
     "total_cites": 372,
     "hindex": 10,
     "hmindex": 7.0,
-    "nps": 13,
-    "ncs": 187,
+    "distinct_papers": 351,
+    "ratio_cp": 1.06,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 306
 },{
@@ -4599,8 +4599,8 @@
     "total_cites": 800,
     "hindex": 13,
     "hmindex": 7.9,
-    "nps": 9,
-    "ncs": 76,
+    "distinct_papers": 698,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 307
 },{
@@ -4614,8 +4614,8 @@
     "total_cites": 1472,
     "hindex": 21,
     "hmindex": 8.8,
-    "nps": 1,
-    "ncs": 1,
+    "distinct_papers": 1249,
+    "ratio_cp": 1.18,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 308
 },{
@@ -4629,8 +4629,8 @@
     "total_cites": 568,
     "hindex": 15,
     "hmindex": 6.53,
-    "nps": 1,
-    "ncs": 37,
+    "distinct_papers": 504,
+    "ratio_cp": 1.13,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 309
 },{
@@ -4644,8 +4644,8 @@
     "total_cites": 1151,
     "hindex": 19,
     "hmindex": 8.43,
-    "nps": 3,
-    "ncs": 34,
+    "distinct_papers": 987,
+    "ratio_cp": 1.17,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 310
 },{
@@ -4659,8 +4659,8 @@
     "total_cites": 1536,
     "hindex": 19,
     "hmindex": 9.85,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1340,
+    "ratio_cp": 1.15,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 311
 },{
@@ -4674,8 +4674,8 @@
     "total_cites": 532,
     "hindex": 15,
     "hmindex": 9.48,
-    "nps": 6,
-    "ncs": 41,
+    "distinct_papers": 472,
+    "ratio_cp": 1.13,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 312
 },{
@@ -4689,8 +4689,8 @@
     "total_cites": 1478,
     "hindex": 20,
     "hmindex": 10.82,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1203,
+    "ratio_cp": 1.23,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 313
 },{
@@ -4704,8 +4704,8 @@
     "total_cites": 399,
     "hindex": 8,
     "hmindex": 5.77,
-    "nps": 5,
-    "ncs": 339,
+    "distinct_papers": 334,
+    "ratio_cp": 1.19,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 314
 },{
@@ -4719,8 +4719,8 @@
     "total_cites": 1879,
     "hindex": 23,
     "hmindex": 11.85,
-    "nps": 3,
-    "ncs": 0,
+    "distinct_papers": 1330,
+    "ratio_cp": 1.41,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 315
 },{
@@ -4734,8 +4734,8 @@
     "total_cites": 1420,
     "hindex": 22,
     "hmindex": 11.27,
-    "nps": 1,
-    "ncs": 1,
+    "distinct_papers": 985,
+    "ratio_cp": 1.44,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 316
 },{
@@ -4749,8 +4749,8 @@
     "total_cites": 255,
     "hindex": 9,
     "hmindex": 9.0,
-    "nps": 52,
-    "ncs": 255,
+    "distinct_papers": 246,
+    "ratio_cp": 1.04,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 317
 },{
@@ -4764,8 +4764,8 @@
     "total_cites": 606,
     "hindex": 12,
     "hmindex": 8.81,
-    "nps": 2,
-    "ncs": 21,
+    "distinct_papers": 476,
+    "ratio_cp": 1.27,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 318
 },{
@@ -4779,8 +4779,8 @@
     "total_cites": 332,
     "hindex": 11,
     "hmindex": 8.18,
-    "nps": 16,
-    "ncs": 181,
+    "distinct_papers": 297,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 319
 },{
@@ -4794,8 +4794,8 @@
     "total_cites": 411,
     "hindex": 13,
     "hmindex": 8.81,
-    "nps": 8,
-    "ncs": 87,
+    "distinct_papers": 311,
+    "ratio_cp": 1.32,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 320
 },{
@@ -4809,8 +4809,8 @@
     "total_cites": 1375,
     "hindex": 19,
     "hmindex": 12.0,
-    "nps": 6,
-    "ncs": 13,
+    "distinct_papers": 1094,
+    "ratio_cp": 1.26,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 321
 },{
@@ -4824,8 +4824,8 @@
     "total_cites": 715,
     "hindex": 13,
     "hmindex": 7.79,
-    "nps": 2,
-    "ncs": 33,
+    "distinct_papers": 608,
+    "ratio_cp": 1.18,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 322
 },{
@@ -4839,8 +4839,8 @@
     "total_cites": 978,
     "hindex": 15,
     "hmindex": 9.83,
-    "nps": 4,
-    "ncs": 27,
+    "distinct_papers": 791,
+    "ratio_cp": 1.24,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 323
 },{
@@ -4854,8 +4854,8 @@
     "total_cites": 1854,
     "hindex": 24,
     "hmindex": 10.47,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1657,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 324
 },{
@@ -4869,8 +4869,8 @@
     "total_cites": 1004,
     "hindex": 19,
     "hmindex": 12.03,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 726,
+    "ratio_cp": 1.38,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 325
 },{
@@ -4884,8 +4884,8 @@
     "total_cites": 1508,
     "hindex": 22,
     "hmindex": 12.28,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1120,
+    "ratio_cp": 1.35,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 326
 },{
@@ -4899,8 +4899,8 @@
     "total_cites": 1815,
     "hindex": 26,
     "hmindex": 12.82,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1637,
+    "ratio_cp": 1.11,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 327
 },{
@@ -4914,8 +4914,8 @@
     "total_cites": 2060,
     "hindex": 26,
     "hmindex": 11.3,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1713,
+    "ratio_cp": 1.2,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 328
 },{
@@ -4929,8 +4929,8 @@
     "total_cites": 1306,
     "hindex": 15,
     "hmindex": 8.49,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1022,
+    "ratio_cp": 1.28,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 329
 },{
@@ -4944,8 +4944,8 @@
     "total_cites": 642,
     "hindex": 13,
     "hmindex": 8.75,
-    "nps": 15,
-    "ncs": 45,
+    "distinct_papers": 493,
+    "ratio_cp": 1.3,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 330
 },{
@@ -4959,8 +4959,8 @@
     "total_cites": 1027,
     "hindex": 18,
     "hmindex": 10.33,
-    "nps": 3,
-    "ncs": 1,
+    "distinct_papers": 913,
+    "ratio_cp": 1.12,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 331
 },{
@@ -4974,8 +4974,8 @@
     "total_cites": 1629,
     "hindex": 23,
     "hmindex": 12.56,
-    "nps": 0,
-    "ncs": 0,
+    "distinct_papers": 1347,
+    "ratio_cp": 1.21,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 332
 },{
@@ -4989,8 +4989,8 @@
     "total_cites": 496,
     "hindex": 15,
     "hmindex": 6.81,
-    "nps": 1,
-    "ncs": 41,
+    "distinct_papers": 470,
+    "ratio_cp": 1.06,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 333
 },{
@@ -5004,8 +5004,8 @@
     "total_cites": 617,
     "hindex": 14,
     "hmindex": 10.0,
-    "nps": 10,
-    "ncs": 34,
+    "distinct_papers": 477,
+    "ratio_cp": 1.29,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 334
 },{
@@ -5019,8 +5019,8 @@
     "total_cites": 1300,
     "hindex": 12,
     "hmindex": 6.98,
-    "nps": 6,
-    "ncs": 21,
+    "distinct_papers": 1038,
+    "ratio_cp": 1.25,
     "subfield_one": "Mining & Metallurgy",
     "subfield_rank": 335
 }]
