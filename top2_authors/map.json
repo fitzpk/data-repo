@@ -7,7 +7,7 @@
     "id": "US",
     "value": 33.2,
     "count": 13315,
-    "percent_display": "33.2"
+    "percent_display": "33.2%"
 },{
     "id": "CA",
     "value": 4.0,
@@ -17,22 +17,22 @@
     "id": "JP",
     "value": 5.6,
     "count": 2259,
-    "percent_display": "5.6"
+    "percent_display": "5.6%"
 },{
     "id": "DE",
     "value": 5.7,
     "count": 2291,
-    "percent_display": "5.7"
+    "percent_display": "5.7%"
 },{
     "id": "GB",
     "value": 7.0,
     "count": 2812,
-    "percent_display": "7.0"
+    "percent_display": "7.0%"
 },{
     "id": "CN",
     "value": 7.5,
     "count": 3003,
-    "percent_display": "7.5"
+    "percent_display": "7.5%"
 },{
     "id": "SA",
     "value": 0.4,
